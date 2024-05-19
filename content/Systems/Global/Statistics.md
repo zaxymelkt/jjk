@@ -24,12 +24,20 @@ The distance you can throw an object will depend on the item’s size:
 - Large Items can be thrown STR/2 in metres.
 - Anything larger can be thrown STR/4 in metres.
 
-|                                                                                                        |                                                                                                        |                                                                                                        |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| **5 Points Invested**<br><br>- Lifting STR: 25kg<br> <br>- Jump Height: 0.5m<br> <br>- Throw SPD: +0   | **10 Points Invested**<br><br>- Lifting STR: 50kg<br> <br>- Jump Height: 1m<br> <br>- Throw SPD: +1    | **15 Points Invested**<br><br>- Lifting STR: 75kg<br> <br>- Jump Height: 1.5m<br> <br>- Throw SPD: +1  |
-| **20 Points Invested**<br><br>- Lifting STR: 100kg<br> <br>- Jump Height: 2m<br> <br>- Throw SPD: +2   | **25 Points Invested**<br><br>- Lifting STR: 125kg<br> <br>- Jump Height: 2.5m<br> <br>- Throw SPD: +2 | **30 Points Invested**<br><br>- Lifting STR: 150kg<br> <br>- Jump Height: 3m<br> <br>- Throw SPD: +3   |
-| **35 Points Invested**<br><br>- Lifting STR: 175kg<br> <br>- Jump Height: 3.5m<br> <br>- Throw SPD: +3 | **40 Points Invested**<br><br>- Lifting STR: 200kg<br> <br>- Jump Height: 4m<br> <br>- Throw SPD: +4   | **45 Points Invested**<br><br>- Lifting STR: 225kg<br> <br>- Jump Height: 4.5m<br> <br>- Throw SPD: +4 |
-| **50 Points Invested**<br><br>- Lifting STR: 250kg<br> <br>- Jump Height: 5m<br> <br>- Throw SPD: +5   | **55 Points Invested**<br><br>- Lifting STR: 275kg<br> <br>- Jump Height: 5.5m<br> <br>- Throw SPD: +5 | **60 Points Invested**<br><br>- Lifting STR: 300kg<br> <br>- Jump Height: 6m<br> <br>- Throw SPD: +6   |
+| **Points Invested** | **Lifting STR** | **Jump Height** | **Throw SPD** |
+| ------------------- | --------------- | --------------- | ------------- |
+| **5**               | 25kg            | 0.5m            | +0            |
+| **10**              | 50kg            | 1m              | +1            |
+| **15**              | 75kg            | 1.5m            | +1            |
+| **20**              | 100kg           | 2m              | +2            |
+| **25**              | 125kg           | 2.5m            | +2            |
+| **30**              | 150kg           | 3m              | +3            |
+| **35**              | 175kg           | 3.5m            | +3            |
+| **40**              | 200kg           | 4m              | +4            |
+| **45**              | 225kg           | 4.5m            | +4            |
+| **50**              | 250kg           | 5m              | +5            |
+| **55**              | 275kg           | 5.5m            | +5            |
+| **60**              | 300kg           | 6m              | +6            |
 
 ## Endurance [END]
 
@@ -46,13 +54,20 @@ Damage taken can be reduced by protecting the area with cursed energy.
 At 15, 25, 35, and 45 Endurance, an OC gains an additional 5 HP.
 
 HP is a static stat, unaffected by END buffs or debuffs unless specified otherwise.
-
-|                                                                                                                                                                                          |                                                                                                                                                                                          |                                                                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **5 Points Invested**<br><br>- Attacks beyond +5 inflict ‘daze’.<br> <br>- Attacks beyond +10 inflict ‘stunned’.<br> <br>- Attacks beyond +15 inflict ‘unconscious’.<br> <br>- HP: 15    | **10 Points Invested**<br><br>- Attacks beyond +6 inflict ‘daze’.<br> <br>- Attacks beyond +12 inflict ‘stunned’.<br> <br>- Attacks beyond +16 inflict ‘unconscious’.<br> <br>- HP: 30   | **15 Points Invested**<br><br>- Attacks beyond +7 inflict ‘daze’.<br> <br>- Attacks beyond +13 inflict ‘stunned’.<br> <br>- Attacks beyond +17 inflict ‘unconscious’.<br> <br>- HP: 50   |
-| **20 Points Invested**<br><br>- Attacks beyond +8 inflict ‘daze’.<br> <br>- Attacks beyond +14 inflict ‘stunned’.<br> <br>- Attacks beyond +18 inflict ‘unconscious’.<br> <br>- HP: 65   | **25 Points Invested**<br><br>- Attacks beyond +9 inflict ‘daze’.<br> <br>- Attacks beyond +15 inflict ‘stunned’.<br> <br>- Attacks beyond +19 inflict ‘unconscious’.<br> <br>- HP: 85   | **30 Points Invested**<br><br>- Attacks beyond +10 inflict ‘daze’.<br> <br>- Attacks beyond +16 inflict ‘stunned’.<br> <br>- Attacks beyond +20 inflict ‘unconscious’.<br> <br>- HP: 100 |
-| **35 Points Invested**<br><br>- Attacks beyond +11 inflict ‘daze’.<br> <br>- Attacks beyond +17 inflict ‘stunned’.<br> <br>- Attacks beyond +21 inflict ‘unconscious’.<br> <br>- HP: 120 | **40 Points Invested**<br><br>- Attacks beyond +12 inflict ‘daze’.<br> <br>- Attacks beyond +18 inflict ‘stunned’.<br> <br>- Attacks beyond +22 inflict ‘unconscious’.<br> <br>- HP: 135 | **45 Points Invested**<br><br>- Attacks beyond +13 inflict ‘daze’.<br> <br>- Attacks beyond +19 inflict ‘stunned’.<br> <br>- Attacks beyond +23 inflict ‘unconscious’.<br> <br>- HP: 155 |
-| **50 Points Invested**<br><br>- Attacks beyond +14 inflict ‘daze’.<br> <br>- Attacks beyond +20 inflict ‘stunned’.<br> <br>- Attacks beyond +24 inflict ‘unconscious’.<br> <br>- HP: 170 | **55 Points Invested**<br><br>- Attacks beyond +15 inflict ‘daze’.<br> <br>- Attacks beyond +21 inflict ‘stunned’.<br> <br>- Attacks beyond +25 inflict ‘unconscious’.<br> <br>- HP: 185 | **60 Points Invested**<br><br>- Attacks beyond +16 inflict ‘daze’.<br> <br>- Attacks beyond +22 inflict ‘stunned’.<br> <br>- Attacks beyond +26 inflict ‘unconscious’.<br> <br>- HP: 200 |
+| **Points Invested** | **HP** | **Daze** | **Stunned** | **Unconscious** |
+|---------------------|-------|---------|------------|------------------|
+| **5** | 15 | Beyond +5 | Beyond +10 | Beyond +15 |
+| **10** | 30 | Beyond +6 | Beyond +12 | Beyond +16 |
+| **15** | 50 | Beyond +7 | Beyond +13 | Beyond +17 |
+| **20** | 65 | Beyond +8 | Beyond +14 | Beyond +18 |
+| **25** | 85 | Beyond +9 | Beyond +15 | Beyond +19 |
+| **30** | 100 | Beyond +10| Beyond +16 | Beyond +20 |
+| **35** | 120 | Beyond +11| Beyond +17 | Beyond +21 |
+| **40** | 135 | Beyond +12| Beyond +18 | Beyond +22 |
+| **45** | 155 | Beyond +13| Beyond +19 | Beyond +23 |
+| **50** | 170 | Beyond +14| Beyond +20 | Beyond +24 |
+| **55** | 185 | Beyond +15| Beyond +21 | Beyond +25 |
+| **60** | 200 | Beyond +16| Beyond +22 | Beyond +26 |
 
 > [!Placement]
 >
@@ -76,12 +91,20 @@ Reaction determines reaction speed, limits ability activation per turn, and cont
 
 Reacting to an attack requires both the reaction speed and agility, but also movement distance and positioning.
 
-|                                                                                                                                                                                                                    |                                                                                                                                                                                                                    |                                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **5 Points Invested**<br><br>- Reaction SPD: +4<br> <br>- Target Focus: 1<br> <br>- Projectile Focus: 2<br> <br>Senses:<br>- Hearing: 10m<br> <br>- Sight: 15m<br> <br>- CE: 0.25m<br> <br><br>- Attack Slots: 1   | **10 Points Invested**<br><br>- Reaction SPD: +6<br> <br>- Target Focus: 2<br> <br>- Projectile Focus: 2<br> <br>Senses:<br>- Hearing: 12m<br> <br>- Sight: 17m<br> <br>- CE: 0.5m<br> <br><br>- Attack Slots: 1   | **15 Points Invested**<br><br>- Reaction SPD: +8<br> <br>- Target Focus: 2<br> <br>- Projectile Focus: 3<br> <br>Senses:<br>- Hearing: 14m<br> <br>- Sight: 19m<br> <br>- CE: 0.75m<br> <br><br>- Attack Slots: 2  |
-| **20 Points Invested**<br><br>- Reaction SPD: +10<br> <br>- Target Focus: 3<br> <br>- Projectile Focus: 4<br> <br>Senses:<br>- Hearing: 16m<br> <br>- Sight: 21m<br> <br>- CE: 1m<br> <br><br>- Attack Slots: 2    | **25 Points Invested**<br><br>- Reaction SPD: +12<br> <br>- Target Focus: 3<br> <br>- Projectile Focus: 4<br> <br>Senses:<br>- Hearing: 18m<br> <br>- Sight: 23m<br> <br>- CE: 1.25m<br> <br><br>- Attack Slots: 3 | **30 Points Invested**<br><br>- Reaction SPD: +13<br> <br>- Target Focus: 4<br> <br>- Projectile Focus: 5<br> <br>Senses:<br>- Hearing: 20m<br> <br>- Sight: 25m<br> <br>- CE: 1.5m<br> <br><br>- Attack Slots: 3  |
-| **35 Points Invested**<br><br>- Reaction SPD: +15<br> <br>- Target Focus: 4<br> <br>- Projectile Focus: 5<br> <br>Senses:<br>- Hearing: 22m<br> <br>- Sight: 27m<br> <br>- CE: 1.75m<br> <br><br>- Attack Slots: 4 | **40 Points Invested**<br><br>- Reaction SPD: +17<br> <br>- Target Focus: 4<br> <br>- Projectile Focus: 5<br> <br>Senses:<br>- Hearing: 24m<br> <br>- Sight: 29m<br> <br>- CE: 2m<br> <br><br>- Attack Slots: 4    | **45 Points Invested**<br><br>- Reaction SPD: +19<br> <br>- Target Focus: 5<br> <br>- Projectile Focus: 6<br> <br>Senses:<br>- Hearing: 26m<br> <br>- Sight: 31m<br> <br>- CE: 2.25m<br> <br><br>- Attack Slots: 5 |
-| **50 Points Invested**<br><br>- Reaction SPD: +21<br> <br>- Target Focus: 5<br> <br>- Projectile Focus: 6<br> <br>Senses:<br>- Hearing: 28m<br> <br>- Sight: 33m<br> <br>- CE: 2.5m<br> <br><br>- Attack Slots: 5  | **55 Points Invested**<br><br>- Reaction SPD: +23<br> <br>- Target Focus: 5<br> <br>- Projectile Focus: 7<br> <br>Senses:<br>- Hearing: 30m<br> <br>- Sight: 35m<br> <br>- CE: 2.75m<br> <br><br>- Attack Slots: 6 | **60 Points Invested**<br><br>- Reaction SPD: +25<br> <br>- Target Focus: 6<br> <br>- Projectile Focus: 7<br> <br>Senses:<br>- Hearing: 35m<br> <br>- Sight: 40m<br> <br>- CE: 3m<br> <br><br>- Attack Slots: 6    |
+| **Points Invested** | **RAC SPD** | **Targets** | **Projectiles** | **Hearing** | **Sight** | **CE** | **Actions** |
+| ------------------- | ----------- | ----------- | --------------- | ----------- | --------- | ------ | ----------- |
+| 5                   | +4          | 1           | 2               | 10m         | 15m       | 0.25m  | 1           |
+| 10                  | +6          | 2           | 2               | 12m         | 17m       | 0.5m   | 1           |
+| 15                  | +8          | 2           | 3               | 14m         | 19m       | 0.75m  | 2           |
+| 20                  | +10         | 3           | 4               | 16m         | 21m       | 1m     | 2           |
+| 25                  | +12         | 3           | 4               | 18m         | 23m       | 1.25m  | 3           |
+| 30                  | +13         | 4           | 5               | 20m         | 25m       | 1.5m   | 3           |
+| 35                  | +15         | 4           | 5               | 22m         | 27m       | 1.75m  | 4           |
+| 40                  | +17         | 4           | 5               | 24m         | 29m       | 2m     | 4           |
+| 45                  | +19         | 5           | 6               | 26m         | 31m       | 2.25m  | 5           |
+| 50                  | +21         | 5           | 6               | 28m         | 33m       | 2.5m   | 5           |
+| 55                  | +23         | 5           | 7               | 30m         | 35m       | 2.75m  | 6           |
+| 60                  | +25         | 6           | 7               | 35m         | 40m       | 3m     | 6           |
 
 Attacks are defined as ‘full’ movement and or individual activations of a cursed technique, as well as the addition of a ‘Chant’. While an individual is able to respond to as many attacks as they can focus on, they can only dish out a set amount of physical combos or cursed techniques outside of defensive manoeuvres such as blocking, evading, or using Cursed Energy ‘cloaks’.
 
@@ -91,18 +114,18 @@ Agility determines movement distance, combative speed, and general acrobatics. W
 
 | **Points Invested** | **Block SPD** | **MD** |
 | :-----------------: | :-----------: | :----: |
-|  5 Points Invested  |      +0       |   3    |
-| 10 Points Invested  |      +1       |   5    |
-| 15 Points Invested  |      +2       |   7    |
-| 20 Points Invested  |      +2       |   9    |
-| 25 Points Invested  |      +3       |   11   |
-| 30 Points Invested  |      +3       |   13   |
-| 35 Points Invested  |      +4       |   15   |
-| 40 Points Invested  |      +4       |   17   |
-| 45 Points Invested  |      +5       |   19   |
-| 50 Points Invested  |      +5       |   21   |
-| 55 Points Invested  |      +6       |   23   |
-| 60 Points Invested  |      +6       |   25   |
+|        **5**        |      +0       |   3    |
+|       **10**        |      +1       |   5    |
+|       **15**        |      +2       |   7    |
+|       **20**        |      +2       |   9    |
+|       **25**        |      +3       |   11   |
+|       **30**        |      +3       |   13   |
+|       **35**        |      +4       |   15   |
+|       **40**        |      +4       |   17   |
+|       **45**        |      +5       |   19   |
+|       **50**        |      +5       |   21   |
+|       **55**        |      +6       |   23   |
+|       **60**        |      +6       |   25   |
 
 # Cursed Energy Stats
 
@@ -133,20 +156,20 @@ Cursed Energy Control determines how effectively an individual controls their Cu
 ## C.E Efficiency [C.E.E]
 
 Cursed Energy Efficiency determines how efficiently an individual can use Cursed Energy as well as assists in other factors of Cursed Technique usage.
-| **Investment Level** | **Cost Effect (CE) Adjustment** | **Domain Use Duration Adjustment** |
+| **Points Invested** | **Cost Effect (CE) Adjustment** | **Domain Use Duration Adjustment** |
 |----------------------|---------------------------------|------------------------------------|
-| **5 Points Invested** | Increased cost of 3 CE | N/A |
-| **10 Points Invested** | Increased cost of 1 CE | N/A |
-| **15 Points Invested** | No increase in cost | N/A |
-| **20 Points Invested** | Decreased cost of 1 CE | N/A |
-| **25 Points Invested** | Decreased cost of 3 CE | N/A |
-| **30 Points Invested** | Decreased cost of 5 CE | N/A |
-| **35 Points Invested** | Decreased cost of 7 CE<br> | Restricted status effect lowered by 1 |
-| **40 Points Invested** | Decreased cost of 9 CE | Restricted status effect lowered by 1 |
-| **45 Points Invested** | Decreased cost of 10 CE<br> | Restricted status effect lowered by 2 |
-| **50 Points Invested** | Decreased cost of 12 CE<br> | Restricted status effect lowered by 3 |
-| **55 Points Invested** | Decreased cost of 13 CE | Restricted status effect lowered by 3 |
-| **60 Points Invested** | Decreased cost of 14 CE<br> | Restricted status effect lowered by 4 |
+| **5** | Increased cost of 3 CE | N/A |
+| **10** | Increased cost of 1 CE | N/A |
+| **15** | No increase in cost | N/A |
+| **20** | Decreased cost of 1 CE | N/A |
+| **25** | Decreased cost of 3 CE | N/A |
+| **30** | Decreased cost of 5 CE | N/A |
+| **35** | Decreased cost of 7 CE<br> | Restricted status effect lowered by 1 |
+| **40** | Decreased cost of 9 CE | Restricted status effect lowered by 1 |
+| **45** | Decreased cost of 10 CE<br> | Restricted status effect lowered by 2 |
+| **50** | Decreased cost of 12 CE<br> | Restricted status effect lowered by 3 |
+| **55** | Decreased cost of 13 CE | Restricted status effect lowered by 3 |
+| **60** | Decreased cost of 14 CE<br> | Restricted status effect lowered by 4 |
 
 > [!NOTE]
 > Cursed Techniques can only be lowered to ‘5’ C.E cost at most.
