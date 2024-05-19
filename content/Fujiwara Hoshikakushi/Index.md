@@ -5,7 +5,6 @@ longform:
   workflow: Default Workflow
   sceneFolder: History
   scenes:
-    - undefined
     - Early Childhood
     - Middle Childhood
     - Late Childhood
