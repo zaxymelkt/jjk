@@ -15,6 +15,7 @@ _How will you avoid this Cursed Cataclysm?_
 # Players
 
 - [[Fujiwara Hoshikakushi]]
+
 # Systems
 
 ## Global
@@ -26,6 +27,7 @@ _How will you avoid this Cursed Cataclysm?_
 - [[Cursed Tools]]
 - [[Combat Mastery]]
 - [[Cursed Energy Properties]]
+
 ## Lore
 
 - [[Jujutsu Historical & Prominent Families]]
