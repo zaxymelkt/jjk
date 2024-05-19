@@ -106,7 +106,7 @@ Reacting to an attack requires both the reaction speed and agility, but also mov
 | 55                  | +23         | 5           | 7           | 30m         | 35m       | 2.75m  | 6           |
 | 60                  | +25         | 6           | 7           | 35m         | 40m       | 3m     | 6           |
 
-Attacks are defined as ‘full’ movement and or individual activations of a cursed technique, as well as the addition of a ‘Chant’. While an individual is able to respond to as many attacks as they can focus on, they can only dish out a set amount of physical combos or cursed techniques outside of defensive manoeuvres such as blocking, evading, or using Cursed Energy ‘cloaks’.
+Actions are defined as a use of combat moves, attacks, and or individual activations of a cursed technique; in addition, chanting. While an individual is able to respond to as many attacks as they can focus on, they can only dish out a set amount of physical combos or cursed techniques outside of defensive manoeuvres such as blocking, evading, or using Cursed Energy infusion.
 
 ## Agility [SPD]
 
