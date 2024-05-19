@@ -1,11 +1,16 @@
 ---
 longform:
   format: scenes
-  title: Jujutsu Kaisen - Cursed Cataclysm
+  title: Fujiwara Hoshikakushi
   workflow: Default Workflow
-  sceneFolder: /
+  sceneFolder: History
   scenes:
+    - undefined
     - Early Childhood
+    - Middle Childhood
+    - Late Childhood
+    - Early Teens
+    - Middle Teens
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
