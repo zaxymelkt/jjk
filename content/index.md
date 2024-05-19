@@ -10,6 +10,33 @@ Through the use of her Clairvoyance, Principal Amane Asahiro has gathered twelve
 _How will you emerge?_ 
 
 _How will you avoid this Cursed Cataclysm?_
+
 # Players
 
 [[Fujiwara Hoshikakushi]]
+# Systems
+
+## Global
+- [[Statistics]]
+- [[Domain Manifestation]]
+- [[Status Conditions]]
+- [[Injuries]]
+- [[Cursed Tools]]
+- [[Combat Mastery]]
+- [[Cursed Energy Properties]]
+## Lore
+- [[Jujutsu Historical & Prominent Families]]
+- [[Jujutsu History]]
+
+## Cursed Techniques
+- [[Shrine]]
+- [[Physically Gifted]]
+- [[Ten Shadows]]
+- [[Mimicry]]
+- [[Limitless]]
+- [[Curse Manipulation]]
+- [[Ice Formation]]
+- [[Projection Sorcery]]
+- [[Malignant Curse Resurrection]]
+
+
