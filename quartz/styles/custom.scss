@@ -1,12 +1,12 @@
 @use "./base.scss";
 
 table {
-  border-collapse: collapse;
+  th,
+  td {
+    // Targets both table headers (th) and table data (td)
+    text-align: justify; // Aligns text to the left
+    border: 1px solid #ddd; // Adds borders for visual separation
+  }
 }
 
-td,
-th {
-  border: 3px solid #100e0e; // Adjust color as needed
-
-  // put your custom CSS here!
-}
+// Optional: If you want to specify minimum widths for certain columns
