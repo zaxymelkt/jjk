@@ -57,7 +57,7 @@ HP is a static stat, unaffected by END buffs or debuffs unless specified otherwi
 
   
 
-> [!Regional Damage Reductions / Increases]
+> [!Regional Damage]
 > 
 > - Head: Injuries to the skull deal increased damage only if endurance is equal or lower than the strength. Increasing the damage done by 2 HP.
 > - Torso: Attacks dealt to the body are neutral.
