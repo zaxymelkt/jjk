@@ -138,7 +138,7 @@ When using Cursed Energy to protect or enhance a location, it will reduce the in
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **5** | - | - Create a simple barrier (Curtain) with a max size of 6 x 6 x 6 meters, costing 18 CE to summon.<br>- Curtain forms at a speed equal to your CE Control and has a durability of your CE Output - 3. |
 | **10** | - | - Curtain max size: 10 x 10 x 10 meters, costing 25 CE to summon.<br>- Curtain forms at a speed equal to your CE Control and has a durability of your CE Output + 2. |
-| **15** | - Infuse one limb with CE, increasing striking force to Strength + 2 or CE Output.<br>- Reduces damage to this limb by 2.<br>- Costs 8 CE per turn. | - |
+| **15** | - Infuse one limb with CE, increasing striking force to Strength + 2 or CE Output.<br>- Reduces damage to this limb by 2.<br>- Costs 8 CE per turn. | - |ç
 | **20** | - Apply cloaks to small or medium weapons/Cursed Tools. | - Curtain max size: 15 x 15 x 15 meters, costing 30 CE to summon.<br>- Curtain forms at a speed equal to your CE Control and has a durability of your CE Output + 4. |
 | **25** | - Infuse two limbs with CE, increasing striking force to Strength + 3 or CE Output + 1.<br>- Reduces damage to these limbs by 3.<br>- Costs 11 CE per turn. | - |
 | **30** | - | - Curtain max size: 20 x 20 x 20 meters, costing 35 CE to summon.<br>- Curtain forms at a speed equal to your CE Control + 2 and has a durability of your CE Output + 6.<br>- Add a single ‘Condition’ to your barrier. |
@@ -171,7 +171,7 @@ Cursed Energy Control determines how effectively an individual controls their Cu
 ## C.E Efficiency [C.E.E]
 
 Cursed Energy Efficiency determines how efficiently an individual can use Cursed Energy as well as assists in other factors of Cursed Technique usage.
-| **Points Invested** | **Cost Effect (CE) Adjustment** | **Domain Use Duration Adjustment** |
+| **Points Invested** | **CE Reduction** | **Restricted Turn Count** |
 |----------------------|---------------------------------|------------------------------------|
 | **5** | Increased cost of 3 CE | N/A |
 | **10** | Increased cost of 1 CE | N/A |
