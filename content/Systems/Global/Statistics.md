@@ -171,7 +171,7 @@ Cursed Energy Control determines how effectively an individual controls their Cu
 ## C.E Efficiency [C.E.E]
 
 Cursed Energy Efficiency determines how efficiently an individual can use Cursed Energy as well as assists in other factors of Cursed Technique usage.
-| **Points Invested** | **CE Reduction** | **Restricted Turn Count** |
+| **Points Invested** | **CE Reduction** | **Domain** |
 |----------------------|---------------------------------|------------------------------------|
 | **5** | Increased cost of 3 CE | N/A |
 | **10** | Increased cost of 1 CE | N/A |
@@ -179,12 +179,12 @@ Cursed Energy Efficiency determines how efficiently an individual can use Cursed
 | **20** | Decreased cost of 1 CE | N/A |
 | **25** | Decreased cost of 3 CE | N/A |
 | **30** | Decreased cost of 5 CE | N/A |
-| **35** | Decreased cost of 7 CE<br> | Restricted status effect lowered by 1 |
-| **40** | Decreased cost of 9 CE | Restricted status effect lowered by 1 |
-| **45** | Decreased cost of 10 CE<br> | Restricted status effect lowered by 2 |
-| **50** | Decreased cost of 12 CE<br> | Restricted status effect lowered by 3 |
-| **55** | Decreased cost of 13 CE | Restricted status effect lowered by 3 |
-| **60** | Decreased cost of 14 CE<br> | Restricted status effect lowered by 4 |
+| **35** | Decreased cost of 7 CE<br> | Restricted status effect lowered by 1 turn |
+| **40** | Decreased cost of 9 CE | Restricted status effect lowered by 1 turn |
+| **45** | Decreased cost of 10 CE<br> | Restricted status effect lowered by 2 turns |
+| **50** | Decreased cost of 12 CE<br> | Restricted status effect lowered by 3 turns |
+| **55** | Decreased cost of 13 CE | Restricted status effect lowered by 3 turns |
+| **60** | Decreased cost of 14 CE<br> | Restricted status effect lowered by 4 turns |
 
 > [!NOTE]
 > Cursed Techniques can only be lowered to ‘5’ C.E cost at most.
