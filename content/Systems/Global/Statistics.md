@@ -113,19 +113,19 @@ Actions are defined as a use of combat moves, attacks, and or individual activat
 Agility determines movement distance, combative speed, and general acrobatics. When evading, blocking an attack within 5 SPD [ FAVOURABLE ], the location of injury can be adjusted but complete evasion is improbable. An attack beyond +5 SPD [ UNFAVOURABLE ], the location of injury is decided by the inflictor.
 
 | **Points Invested** | **Block SPD** | **MD** |
-| :-----------------: | :-----------: | :----: |
-|        **5**        |      +0       |   3    |
-|       **10**        |      +1       |   5    |
-|       **15**        |      +2       |   7    |
-|       **20**        |      +2       |   9    |
-|       **25**        |      +3       |   11   |
-|       **30**        |      +3       |   13   |
-|       **35**        |      +4       |   15   |
-|       **40**        |      +4       |   17   |
-|       **45**        |      +5       |   19   |
-|       **50**        |      +5       |   21   |
-|       **55**        |      +6       |   23   |
-|       **60**        |      +6       |   25   |
+| ------------------- | ------------- | ------ |
+| **5**               | +0            | 3      |
+| **10**              | +1            | 5      |
+| **15**              | +2            | 7      |
+| **20**              | +2            | 9      |
+| **25**              | +3            | 11     |
+| **30**              | +3            | 13     |
+| **35**              | +4            | 15     |
+| **40**              | +4            | 17     |
+| **45**              | +5            | 19     |
+| **50**              | +5            | 21     |
+| **55**              | +6            | 23     |
+| **60**              | +6            | 25     |
 
 # Cursed Energy Stats
 
