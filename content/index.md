@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: "Jujutsu Kaisen : Cursed Cataclysm"
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Players
+
+[[Fujiwara Hoshikakushi]]
