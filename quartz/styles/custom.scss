@@ -1,3 +1,13 @@
 @use "./base.scss";
 
+table {
+  border-collapse: collapse;
+}
+
+/* Add borders to cells */
+td,
+th {
+  border: 1px solid #ddd; /* Adjust color as needed */
+}
+
 // put your custom CSS here!
