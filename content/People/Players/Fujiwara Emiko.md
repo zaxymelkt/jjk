@@ -45,20 +45,32 @@ TBA.
 
 | **Skill** | **Level** | **Invested** |
 | --------- | --------- | ------------ |
-|           |           |              |
-|           |           |              |
-|           |           |              |
+| Offensive | 2         | 3            |
+| Defensive | 3         | 5            |
+
 ### Weaponry
 
-| **Skill** | **Level** | **Invested** |
-| --------- | --------- | ------------ |
-|           |           |              |
-|           |           |              |
+| **Skill**         | **Level** | **Invested** |
+| ----------------- | --------- | ------------ |
+| Piercing : Ranged | 4         | 7            |
+| Slashing : Melee  | 3         | 5            |
+
 ## Cursed Energy
 
-| **Skill** | Invested |
-| --------- | -------- |
-|           |          |
-|           |          |
-|           |          |
-|           |          |
+| **Skill**           | Invested | **Unlocked** |
+| ------------------- | -------- | ------------ |
+| Simple Domain       | 10       | Y            |
+| Batto Sword Drawing | 3        | Y            |
+| Domain Expansion    | 3        | N            |
+
+# Subjugated Curses 
+
+| **Grade**    | **Name**               | **Amount** |
+| ------------ | ---------------------- | ---------- |
+| Semi-Grade 1 | [[Ko-Guy]]             | 1          |
+| Grade 2      | [[Guardians of Minoh]] | 2          |
+| Semi-Grade 2 | [[Takizawa]]           | 1          |
+| Grade 3      | [[Citizens of Minoh]]  | 3          |
+| Grade 3      | [[Arms Curse]]         | 1          |
+| Grade 4      | [[Aka Koshinuke]]      | 1          |
+| Grade 4      | [[Ōkī kuchi]]          | 1          |
