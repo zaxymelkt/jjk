@@ -50,6 +50,7 @@ _How will you avoid this Cursed Cataclysm?_
 ## Cursed Techniques
 
 - [[Shrine]]
+- [[Cursed Speech]]
 - [[Physically Gifted]]
 - [[Ten Shadows]]
 - [[Mimicry]]
