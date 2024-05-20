@@ -33,7 +33,7 @@ Your Cursed Energy levels continue to dwindle, the complete inverse of your phys
 - You regain 8 points of Health every 2 turns without damage.
 - Additionally you gain access to a custom Grade 2 [[Cursed Tools|Cursed Tool]].
 - You gain 5 additional levels to invest into [[Combat Mastery]].
-- You are no longer affected by the ‘Sure Hit’ condition of a [[Domain Manifestation#Domain Expansion|Domain Expansion]].
+- You are no longer affected by the ‘[[Domain Manifestation#Sure-Hit Attack:|Sure-Hit]]’ condition of a [[Domain Manifestation#Domain Expansion|Domain Expansion]].
 # 40 Strength | Reaction
 Reaching a momentary plateau in your abilities, you become incredibly swift, capable of reacting to and understanding the attacks of your opponents at an innate level. Not only this, you’ve further honed your martial ability, gaining access to a new unique application of your Martial Arts or Weapon Control. Adding yet another tool to your expansive arsenal, many in the world of Jujutsu have begun to whisper your name in equal parts awe and fear, terrified of your existence as the bane of Sorcery.
 
@@ -45,6 +45,7 @@ Reaching a momentary plateau in your abilities, you become incredibly swift, cap
 You have reached the zenith of true strength, a demonic fighter with no equal. You can notice the faintest change of atmospheric pressure, utterly intune with the movements of the world around you. Not only this, your physical capabilities have yet again ascended to unheard of levels. Capable of even defeating Special Grade Curses in bouts of physical contest, there are few sorcerers alive who could attempt to match you, requiring physical enforcement through Cursed Energy to even do so. At this level you claim your prize, a Special Grade Cursed Tool, a testament to your skill in wielding it.
 
 - You automatically gain ‘Absent’ levels of [[Statistics#C.E Maximum [C.E.M]|Cursed Energy]].
+	- You are treated as an 'object' by [[Domain Manifestation#Domain Expansion|Domain Expansions]] and other techniques which target 'Sorcerers'.
 - You regain 15 points of Health every 2 turns without damage.
 - You gain an increase of 12 Movement Distance.
 - You gain 5 additional levels to invest into Combat Mastery.

@@ -7,20 +7,13 @@
 # Dazed
 
 Upon being struck with force enough to cause their brain to rebound against their skull, an individual will enter a status known as ‘Dazed’. All current techniques will end and they receive -5 SPD for the next turn. An Individual cannot be dazed for two turns consecutively, and must have at least one turn of not being dazed, before they can be dazed again. The only exception being ‘daze’ caused by Black Flash.
-
-  
-
 # Stunned
 
 Upon being struck with a force enough to tense the body and scramble the brain, the ‘stunned’ status is applied. Those afflicted will be unable to action the turn after the status was applied and for the duration of the stun. Certain attacks may inflict the ‘stunned’ status due to electrical properties or similar. While stunned, techniques are deactivated and automated functions are nulled. You cannot be continuous stunned, having a 2 turn cooldown.
 
-  
-
 # Unconscious
 
 Upon being struck with an attack of significant force or enough to drop an individual to 0 HP the ‘unconscious’ status is applied. Those afflicted will be incapable of actioning for the duration of the status effect and half a turn after. Conditions for the status effect ending require HP to be brought back from 0 or depending on the method used to inflict, outside movement or stimuli will wake.
-
-  
 
 # Near Death
 
@@ -38,7 +31,7 @@ Upon a successful ‘will to live’ the individual will recover 2 HP. If this b
 - Near Death sixth turn, a 1d10, requiring a 9 or higher to remain alive. Otherwise the ‘Dead’ status is applied.
 - Near Death seventh turn, a 1d10, requiring a 10 to remain alive. Otherwise the ‘Dead’ status is applied.
 # Dead
-Upon failing a Near Death save or by sustaining too much damage to enter the condition [-16 HP], ‘Dead’ will be applied. In the final moments before death, an individual will exist in their own ‘mind palace’ of the afterlife, having a chance to decide if they will move on or anchor themselves with a curse. In the latter, control of the character is given up, only some input from the individual will be taken in consideration.
+Upon failing a Near Death save or by sustaining too much damage to enter the condition [-16 HP], ‘Dead’ will be applied. In the final moments before death, an individual will exist in their own ‘mind palace’ of the afterlife, having a chance to decide if they will move on or — *if they were killed without the use of cursed energy* — anchor themselves with a curse. In the latter, control of the character is given up, only some input from the individual will be taken in consideration.
 # Bleed
 Upon being struck by a piercing or slashing attack, the ‘bleed’ condition is applied. Depending on the level of the wound, a different level of bleed will be applied. When ‘bleed’ is applied, the highest level of bleed will be used for damage calculations. Bleed will take effect the turn after it was inflicted.
 
@@ -84,22 +77,27 @@ The ‘poisoned’ status will increase in level every two inflictions of the sa
 # Broken
 Upon being hit with enough force to break a bone the ‘broken’ status is inflicted. Continued usage or damage of the afflicted area will increase the severity of the injury unless treated or healed. Every 2 inflictions of Broken of the same level on the same area will advance the status effect level.
 
-WHEN the limb is unsupported and attacked, half the damage inflicted initially is returned. Otherwise, if supported and used or struck, it will follow the outline below.
-
 - Broken 1 will inflict -4 STR, -4 END, and -3 SPD to the afflicted area. Using the afflicted area will damage the individual by the STR -5 used to inflict the wound. Without 20 END the area is unusable.
 - Broken 2 will inflict -5 STR, -5 END, and -4 SPD to the afflicted area. Using the afflicted area will damage the individual by the STR -3 used to inflict the wound. Without 30 END the area is unusable.
 - Broken 3 will inflict -6 STR, -6 END, and -5 SPD to the afflicted area. Using the afflicted area will damage the individual by the STR used to inflict the wound. Without 40 END the area is unusable.
 - Broken 4 will inflict -7 STR, -7 END, and -6 SPD to the afflicted area. Using the afflicted area will damage the individual by the STR +5 used to inflict the wound. Without 55 END the area is unusable.
+
+> [!danger] Note!
+> WHEN the limb is unsupported and attacked, half the damage inflicted initially is returned.
+
 # Toughness
 Cursed Spirits are wicked things, some of which often exhibit traits of regeneration. This phenomenon has been dubbed ‘Toughness’, believed to not be true healing, but instead a buffer of health that mitigates damage to their physicality.
 
-The buffer of toughness must be reduced to 0 before damage can be done to a Spirit's health. Additionally attacks or abilities will not apply status Conditions to a Curse so long as its Toughness Remains.
 
 - Toughness 1 will give a Cursed Spirit a buffer of 5, regenerating at the end of their next turn.
 - Toughness 2 will give a Cursed Spirit a buffer of 10, regenerating at the end of their next turn.
 - Toughness 3 will give a Cursed Spirit a buffer of 15, regenerating at the start of their turn.
 - Toughness 4 will give a Cursed Spirit a buffer of 20, regenerating at the start of their turn.
 - Toughness 5 will give a Cursed Spirit a buffer of 25, regenerating at the start of their turn.
+
+ 
+> [!WARNING] Author's Note
+> The buffer of toughness must be reduced to 0 before damage can be done to health. Additionally attacks or abilities will not apply [[Status Conditions]] so long as its Toughness Remains.
 # Zone
 Often described to be similar to the state of elite focus and the feeling of being at the centre of everything around them, many Sorcerers have described this to be a high on parallel to the actions of an athlete moving through the motions, their manipulation of Cursed Energy becoming as natural to them as breathing, and as thoughtless as the beating of their own heart.
 
@@ -141,7 +139,7 @@ You gain the following benefits upon entering the zone:
 - If you hit a Black Flash while in Zone, it does not trigger the benefits to your health or Energy reserves, but does increase the power of your next Cursed Technique.
 - Zone lasts for 5 turns unless another black flash is hit.
 
-Black Flash
+# Black Flash
 - Deals an additional 5 DMG that cannot be reduced.
 - Upon being hit with a black flash, gain the ‘dazed’ status effect.
 - The first [of an rp] Black Flash gives additional benefits:
