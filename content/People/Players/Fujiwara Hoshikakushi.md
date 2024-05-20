@@ -2,7 +2,7 @@
 
 Fujiwara Hoshikakushi was born in [[Semboku City|Semboku]], Japan, a small city—with a population of around 26,000. With a rough population density of 29.8 people every square kilometre, Fujiwara Hoshikakushi would have to travel over 200 kilometres to meet another sorcerer like himself. Had fate not decided otherwise, Hoshikakushi would have been alone.
 
-Born to the Fujiwara Clan, Hoshikakushi had twelve siblings, born in the middle of all of them. Until Hoshikakushi’s birth and later Fujiwara Emiko’s, the family had yet to birth a sorcerer with an innate technique. Hoshikakushi’s technique is [[Innate Technique|Shrine]], once held by the same man who massacred his clan in the Heian Era.
+Born to the Fujiwara Clan, Hoshikakushi had twelve siblings, born in the middle of all of them. Until Hoshikakushi’s birth and later Fujiwara Emiko’s, the family had yet to birth a sorcerer with an innate technique. Hoshikakushi’s technique is [[Shrine]], once held by the same man who massacred his clan in the Heian Era.
 
 In the sorcerer world, rumours that the Fujiwara Clan hasn’t birthed an innate technique for three generations have become common.
 
@@ -16,7 +16,7 @@ Fujiwara Hoshikakushi had one friend. How they met, no one knows for certainty. 
 
 Awakening his innate technique, [[Shrine]], at the age of six, his introduction resulted in harsh punishment towards him due to the damage he caused to the house. His ‘Shrine’ has two applications, [[Shrine#Cleave|Cleave]] and [[Shrine#Dismantle|Dismantle]], each having its strengths and weaknesses, but overall, it allowed him great control over close-ranged and mid-ranged combat.
 
-As a child, Hoshikakushi would study [[Martial Arts]]. He would show adept skill in [[Fujiwara Hoshikakushi/Abilities/Statistics#Output|Cursed Energy Output]], [[Fujiwara Hoshikakushi/Abilities/Statistics#Efficiency|Efficiency]], and [[Fujiwara Hoshikakushi/Abilities/Statistics#Control|Control]]. Those who trained with him often described that he never seemed to ‘understand’ the concepts or teachings, or rather, Hoshikakushi would ‘mimic’ them until he ‘came across’ the solution. It would work for him in the starting stage of training — swinging a staff isn’t tricky to do — learning to do it in movement or combat is a different skill.
+As a child, Hoshikakushi would study [[Combat Mastery | Martial Arts]]. He would show adept skill in [[Statistics#C.E Output [C.E.O]|Output]], [[Statistics#C.E Efficiency [C.E.E]||Efficiency]], and [[Statistics#C.E Control [C.E.C]||Control]]. Those who trained with him often described that he never seemed to ‘understand’ the concepts or teachings, or rather, Hoshikakushi would ‘mimic’ them until he ‘came across’ the solution. It would work for him in the starting stage of training — swinging a staff isn’t tricky to do — learning to do it in movement or combat is a different skill.
 
 In Hoshikakushi’s free time, he would practise with [[Fujiwara Emiko]] to develop their knowledge of ‘Cursed Energy’, which their Older siblings were only marginally decent at tutoring. During this time, he found little time to hang out with [[Abe Toma]]; however, Hoshikakushi has admitted he enjoys their time together.
 
@@ -40,7 +40,7 @@ Since beginning public school after their family had moved to Kyoto, Hoshikakush
 
 What seemed to confuse Hoshikakushi most was seeing [[Abe Toma]] arrive at the very same school, not that he minded; Abe Toma was convenient to have around, good company. He looked back upon his early promise with Abe Toma, “We’ll remain friends, even in death”, he wondered if that would have made it a ‘binding vow’.
 
-As time went on, the fights Hoshikakushi found himself in began to slowly escalate. There had begun rumours of the damage inflicted upon others without a single punch thrown. Some began to mention how hitting Hoshikakushi felt like punching cement, and his fists felt like a bat However, Hoshikakushi never wanted to fight or mangle, but almost out of instinct, he couldn’t control it, his [[Cursed Energy]] imbued into energy punch.
+As time went on, the fights Hoshikakushi found himself in began to slowly escalate. There had begun rumours of the damage inflicted upon others without a single punch thrown. Some began to mention how hitting Hoshikakushi felt like punching cement, and his fists felt like a bat However, Hoshikakushi never wanted to fight or mangle, but almost out of instinct, he couldn’t control it, his [[Cursed Energy Properties|Cursed Energy]] imbued into energy punch.
 
 During middle school Hoshikakushi would gain the nickname “四条の人間の刃”. Outside of Abe Toma and Fujiwara Emiko, all the other students knew him as Kujou Reien the man who spoke poetics.
 
@@ -52,7 +52,7 @@ During middle school Hoshikakushi would gain the nickname “四条の人間の�
 
 ### Incident
 
-If Hoshikakushi stopped at minor bouts, he may have ended up never a part of [[Kyoto Metropolitan Curse Technical College|Jujutsu High in Kyoto]]. Fortunately or unfortunately, he didn’t stop at a mere beating after years of dealing with both his home and school life. A boy named [[Yuo Hatetsu]] found himself to be the first victim of [[Innate Technique#Shrine|Shrine]], him lacking the ability to see cursed energy, the injuries inflicted appeared as if a divine force invoked them. While the school couldn’t prove the incident that mutilated Yuo and his friends was caused by Hoshikakushi, he was still expelled.
+If Hoshikakushi stopped at minor bouts, he may have ended up never a part of [[Kyoto Metropolitan Curse Technical College|Jujutsu High in Kyoto]]. Fortunately or unfortunately, he didn’t stop at a mere beating after years of dealing with both his home and school life. A boy named [[Yuo Hatetsu]] found himself to be the first victim of [[Shrine]], him lacking the ability to see cursed energy, the injuries inflicted appeared as if a divine force invoked them. While the school couldn’t prove the incident that mutilated Yuo and his friends was caused by Hoshikakushi, he was still expelled.
 
 His difficulties would pile on, his father alerting him to the death of his two [[Fujiwara Yoshitsune]] and [[Fujiwara Tadahiro]], his older brothers along with the comatose status of his [[Fujiwara Sadako|older sister]]. This pushed him further down the spiral of protection, his feelings stronger than ever. Perhaps if his siblings never died, he would have taken his execution over enrolment.
 
@@ -80,7 +80,7 @@ The curse was incredibly fast and had the ability to shift its limbs into differ
 
 Emiko followed her brother's commands to stay back and assist with long-range attacks. However, during Hoshikakushi's battle against Takizawa, after unleashing the utmost of martial arts, he was stricken to near death.
 
-During his time within a near death state, Hoshikakushi found himself within his [[Innate Domain|innate domain]]. He looked around, feeling the world around him slowly crumble with each faint whimper of regret. He was alone all but for his persona ‘Reien’, looking down upon him.
+During his time within a near death state, Hoshikakushi found himself within his [[Fujiwara Hoshikakushi#Innate Domain|innate domain]]. He looked around, feeling the world around him slowly crumble with each faint whimper of regret. He was alone all but for his persona ‘Reien’, looking down upon him.
 “Even in death, seeing only oneself 
  Wearing ancient garments, speaking ancient words 
  Concealing ancient sorcery within calamity.”
@@ -95,9 +95,9 @@ Fujiwara Hoshikakushi found himself along side [[Zen'in Isao]], [[Gojo Tatsuki]]
 
 Hoshikakushi and his fellow sorcerers made their way to the [[Minoh City#Sewers|City sewers]] where they were met with an a structure made of curse and flesh. The walls of the sewers were covered by an amalgamation, it was [[Cursed Spirits#Wall Curse|the Wall Curse]].
 
-The curses that inhabited the [[Minoh City#Radio Tower|City Ratio Tower]] and the sewers were a hive mind controlled by [[Cursed Spirits#Saiko|Special Grade Curse Saiko]]. They appeared to be created using living and dead humans, converting them completely into curses.
+The curses that inhabited the [[Minoh City#Radio Tower|City Ratio Tower]] and the sewers were a hive mind controlled by [[Saiko|Special Grade Curse Saiko]]. They appeared to be created using living and dead humans, converting them completely into curses.
 
-During his battles Hoshikakushi used his newly developed [[Innate Technique#Cleave SpiderWeb|extension technique, Cleave : SpiderWeb]] in order to cause massive damage to the Wall Curse. He'd combat against smaller curses alongside Isao in order to clear way to the hive-mind centre.
+During his battles Hoshikakushi used his newly developed [[Shrine#Cleave SpiderWeb|extension technique, Cleave : SpiderWeb]] in order to cause massive damage to the Wall Curse. He'd combat against smaller curses alongside Isao in order to clear way to the hive-mind centre.
 
 Once arrived at the control centre of the sewer system, Hoshikakushi would engage in combat against [[Guardians of Minoh|Guardian of Minoh Curse Spirit]] with the initial assistance of Isao before having to handle the beast on his own once Isao used his Domain Expansion; until Tatsuki arrived to take over the fight, allowing Hoshikakushi time to recover from the multitude of injuries he sustained.
 

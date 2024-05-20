@@ -44,3 +44,7 @@ _How will you avoid this Cursed Cataclysm?_
 - [[Ice Formation]]
 - [[Projection Sorcery]]
 - [[Malignant Curse Resurrection]]
+
+# Domain Expansion
+- [[Domain Expansion - Kāmadhātu Shrine]]
+- [[Domain Expansion - Time Cell Moon Palace]]
