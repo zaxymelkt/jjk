@@ -35,7 +35,7 @@ You have developed the mind of an artist, now capable of better interpreting and
 - 1 Turn CD.
 - 14 Cursed Energy.
 
-## **Freeze Frame:**
+## Freeze Frame:
 Upon making contact with an individual, and flowing your Cursed Energy through them, activating your Projection Sorcery upon the target. In theory, this should allow for them to move as fast and with as much velocity behind them as you. However, they are not yet accustomed to the precise methodology of these movements, and as such if they cannot comprehend the speed at which you are moving they will instead freeze up into a single frame. Stuck in a static pose, lingering in the air for a moment before returning to normal.
 
 - If the target of this ability would be incapable of reacting to the maximum velocity of your movement ( At this level, C.E Control +10 ), they are instantly frozen into a single frame of animation.

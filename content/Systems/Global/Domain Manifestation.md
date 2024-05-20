@@ -87,7 +87,7 @@ When launching an Incomplete Domain, the Domain is formed without internal and e
 
 Additionally, the first Curse Technique you cast within the Domain has their C.E Output increase by +3.
 
-After your Incomplete Domain is broken or dropped, you gain Restriction 1.
+After your Incomplete Domain is broken or dropped, you gain [[Status Conditions#Restricted|Restricted]] 1.
 
 #### Duration & Cost:
 
@@ -105,7 +105,7 @@ Domain Expansion ( Ryōiki Tenkai ) is the most supreme technique of any jujutsu
 
 A specific hand sign or signal unique to the user is required to expand someone's respective domain. From the outside, a domain's barrier is normally completely closed, making it appear as a floating black sphere that can even be moved slightly if needed.
 
-Upon your Domain being broken, or dispelling it manually, you instantly gain the condition Restricted 2.
+Upon your Domain being broken, or dispelling it manually, you instantly gain the condition [[Status Conditions#Restricted|Restricted]] 2.
 
 Domains are forcibly broken if the user drops below half of their health, or sustains more than 30 points of damage in a single turn.
 
