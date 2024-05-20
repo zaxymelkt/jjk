@@ -25,19 +25,20 @@ You’ve begun to gain a greater mastery over the basics of this technique, as s
 - When summoning a Semi-Grade 2 Cursed Spirit, it costs 14 Cursed Energy Reserves to summon it, and 8 Cursed Energy Reserves to maintain it per turn.
 
 # 30 Cursed Energy Control : 
-As you develop as a sorcerer, your ability to overpower and enslave the souls of the Cursed Spirits you encounter has become far more potent. You can now capture Grade 3 and 4 Cursed Spirits on command, so long as your Cursed Energy Control is greater than their Cursed Energy Output by 10, this process takes 1 full turn to complete. Additionally, your lesser Spirits begin to feel empowered by the residue of your Cursed Energy, gaining +5 to three of their statistics ( Your Choice ). This only applies to your Grade 4 Cursed Spirits. You are incapable of absorbing anything greater than a Grade 2 Cursed Spirit. At any time you may only have twelve Grade 4 Cursed Spirits, five Grade 3 Cursed Spirits, three Grade 2 Cursed Spirit and one Semi-Grade 1 Cursed Spirit bound to your service. 
+As you develop as a sorcerer, your ability to overpower and enslave the souls of the Cursed Spirits you encounter has become far more potent. You can now capture Grade 3 and 4 Cursed Spirits on command, so long as your Cursed Energy Control is greater than their Cursed Energy Output by 10, this process takes 1 full turn to complete. Additionally, your lesser Spirits begin to feel empowered by the residue of your Cursed Energy, gaining +5 to three of their statistics ( Your Choice ). This only applies to your Grade 4 Cursed Spirits. You are incapable of absorbing anything greater than a Semi-Grade 1 Cursed Spirit. At any time you may only have twelve Grade 4 Cursed Spirits, five Grade 3 Cursed Spirits, three Grade 2 Cursed Spirit and one Semi-Grade 1 Cursed Spirit bound to your service. 
 
 - You can only summon 6 Cursed Spirits at a time.
 - When summoning a Grade 4 Cursed Spirit, it costs 6 Cursed Energy Reserves to summon it, and 3 Cursed Energy Reserves to maintain it per turn.
-- When summoning a Grade 3 Cursed Spirit, it costs 11 Cursed Energy Reserves to summon it, and 5 Cursed Energy Reserves to maintain it per turn.
-- When summoning a Grade 2 Cursed Spirit, it costs 18 Cursed Energy Reserves to summon it, and 7 Cursed Energy Reserves to maintain it per turn.  
+- When summoning a Grade 3 Cursed Spirit, it costs 10 Cursed Energy Reserves to summon it, and 5 Cursed Energy Reserves to maintain it per turn.
+- When summoning a Grade 2 Cursed Spirit, it costs 18 Cursed Energy Reserves to summon it, and 7 Cursed Energy Reserves to maintain it per turn.
+- When summoning a Semi-Grade 1 Cursed, it costs 22 Cursed Energy Reserves to summon it, and 10 Cursed Energy Reserves to maintain it per turn.
 
 # 40 Cursed Energy Control : 
 You can now capture Grade 3, 3 and 4 Cursed Spirits on command, so long as your Cursed Energy Control is greater than their Cursed Energy Output by 5, this process takes 1 full turn to complete. Additionally, your lesser Spirits begin to feel empowered by the residue of your Cursed Energy, gaining +5 to three of their statistics ( Your Choice ) This now applies to your Grade 3 Spirits as well. You are incapable of absorbing anything greater than a Grade 1 Cursed Spirit. At any time you may only have fifteen Grade 4 Cursed Spirits, eight Grade 3 Cursed Spirits, five Grade 2 Cursed Spirits and two Grade 1 Cursed Spirit bound to your service. 
 
 - You can only summon 8 Cursed Spirits at a time.
 - When summoning a Grade 4 Cursed Spirit, it costs 6 Cursed Energy Reserves to summon it, and 2 Cursed Energy Reserves to maintain it per turn.
-- When summoning a Grade 3 Cursed Spirit, it costs 12 Cursed Energy Reserves to summon it, and 5 Cursed Energy Reserves to maintain it per turn.
+- When summoning a Grade 3 Cursed Spirit, it costs 9 Cursed Energy Reserves to summon it, and 5 Cursed Energy Reserves to maintain it per turn.
 - When summoning a Grade 2 Cursed Spirit, it costs 14 Cursed Energy Reserves to summon it, and 7 Cursed Energy Reserves to maintain it per turn.
 - When summoning a Grade 1 Cursed Spirit, it costs 22 Cursed Energy Reserves to summon it, and 10 Cursed Energy Reserves to maintain it per turn.
 - At this level, you can forcibly activate the Cursed Technique of a Grade 1 Cursed Spirit, this destroys the Cursed Spirit in the process.

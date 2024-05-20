@@ -2,7 +2,7 @@
 
 Fujiwara Hoshikakushi was born in [[Semboku City|Semboku]], Japan, a small city—with a population of around 26,000. With a rough population density of 29.8 people every square kilometre, Fujiwara Hoshikakushi would have to travel over 200 kilometres to meet another sorcerer like himself. Had fate not decided otherwise, Hoshikakushi would have been alone.
 
-Born to the Fujiwara Clan, Hoshikakushi had twelve siblings, born in the middle of all of them. Until Hoshikakushi’s birth and later Fujiwara Emiko’s, the family had yet to birth a sorcerer with an innate technique. Hoshikakushi’s technique is [[Shrine]], once held by the same man who massacred his clan in the Heian Era.
+Born to the Fujiwara Clan, Hoshikakushi had twelve siblings, born in the middle of all of them. Until Hoshikakushi’s birth and later [[Fujiwara Emiko]]’s, the family had yet to birth a sorcerer with an innate technique. Hoshikakushi’s technique is [[Shrine]], once held by the same man who massacred his clan in the Heian Era.
 
 In the sorcerer world, rumours that the Fujiwara Clan hasn’t birthed an innate technique for three generations have become common.
 
@@ -162,3 +162,16 @@ As the battle neared its end, the awakened Shinji and his younger sister Emiko u
 Following her arrow's release, Emiko swiftly moved to Hoshikakushi, her hands glowing with the intent to heal his grievous wounds and reignite his fading heartbeat. Through her efforts, Hoshikakushi was pulled back from the brink of death, teetering on the edge of life, his willpower the only force guiding him towards recovery.
 
 Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping the room in a dense, malevolent aura of cursed energy. The oppressive weight of his energy bore down on everything around him. Hoshikakushi appeared altered, as if a portion of his being had remained in the realm of the dead.
+
+# Statistics
+
+| Strength           | **13**  |
+| ------------------ | ------- |
+| **Agility**        | **30**  |
+| **Endurance**      | **30**  |
+| **Reaction**       | **30**  |
+| **C.E Output**     | **32**  |
+| **C.E Control**    | **30**  |
+| **C.E Efficiency** | **30**  |
+| **C.E Max**        | **150** |
+| Total              | 195     |
