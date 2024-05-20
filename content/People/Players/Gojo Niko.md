@@ -28,6 +28,15 @@ Following Yuta's death, the expectations placed on Niko intensified. She was exp
 | **C.E Max**        | **220** |
 | Total              | 182     |
 
+# Equipment
+## Soul Split Katana
+Item Size: Medium
+Slot Count: 3
+
+Ability:
+- Always considered to be 'Exceeding' endurance.
+- Ignore [[Status Conditions#Toughness|Toughness]].
+
 # Skills
 
 ## Combat Mastery
