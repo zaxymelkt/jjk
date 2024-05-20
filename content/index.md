@@ -55,6 +55,7 @@ _How will you avoid this Cursed Cataclysm?_
 - [[Ten Shadows]]
 - [[Mimicry]]
 - [[Limitless]]
+	- [[Six Eyes]]
 - [[Curse Manipulation]]
 - [[Ice Formation]]
 - [[Projection Sorcery]]

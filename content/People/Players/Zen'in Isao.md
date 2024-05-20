@@ -47,7 +47,7 @@
 
 | **Skill**                  | Invested | **Unlocked** |
 | -------------------------- | -------- | ------------ |
-| Domain Expansion           | 25       | Y            |
+| Domain Expansion           | 22       | I            |
 | Simple Domain              | 10       | Y            |
 | Evening Moon Sword Drawing | 5        | Y            |
 
