@@ -19,10 +19,12 @@ _How will you avoid this Cursed Cataclysm?_
 - [[Fujiwara Emiko]]
 - [[Abe Toma]]
 - [[Nakamura Shinji]]
+  
 **Suicide Squad**
 - [[Abe Suiren]]
 - [[Inoe Riku]]
 - [[Gojo Niko]]
+  
 **Great Families Squad**
 - [[Zen'in Isao]]
 - [[Gojo Tatsuki]]
