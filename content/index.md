@@ -48,3 +48,4 @@ _How will you avoid this Cursed Cataclysm?_
 # Domain Expansion
 - [[Domain Expansion - Kāmadhātu Shrine]]
 - [[Domain Expansion - Time Cell Moon Palace]]
+- [[Domain Expansion - Unlimited Void]]
