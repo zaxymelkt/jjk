@@ -14,7 +14,19 @@ _How will you avoid this Cursed Cataclysm?_
 
 # Players
 
+**Calamity Unit**
 - [[Fujiwara Hoshikakushi]]
+- [[Fujiwara Emiko]]
+- [[Abe Toma]]
+- [[Nakamura Shinji]]
+**Suicide Squad**
+- [[Abe Suiren]]
+- [[Inoe Riku]]
+- [[Gojo Niko]]
+**Great Families Squad**
+- [[Zen'in Isao]]
+- [[Gojo Tatsuki]]
+- [[Inumaki Kousei]]
 
 # Systems
 
