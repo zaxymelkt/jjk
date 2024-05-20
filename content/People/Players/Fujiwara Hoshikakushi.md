@@ -2,7 +2,7 @@
 
 Fujiwara Hoshikakushi was born in [[Semboku City|Semboku]], Japan, a small city—with a population of around 26,000. With a rough population density of 29.8 people every square kilometre, Fujiwara Hoshikakushi would have to travel over 200 kilometres to meet another sorcerer like himself. Had fate not decided otherwise, Hoshikakushi would have been alone.
 
-Born to the Fujiwara Clan, Hoshikakushi had twelve siblings, born in the middle of all of them. Until Hoshikakushi’s birth and later [[Fujiwara Emiko]]’s, the family had yet to birth a sorcerer with an innate technique. Hoshikakushi’s technique is [[Shrine]], once held by the same man who massacred his clan in the Heian Era.
+Born to the [[Jujutsu Historical & Prominent Families#Fujiwara|Fujiwara Clan]], Hoshikakushi had twelve siblings, born in the middle of all of them. Until Hoshikakushi’s birth and later [[Fujiwara Emiko]]’s, the family had yet to birth a sorcerer with an innate technique. Hoshikakushi’s technique is [[Shrine]], once held by the same man who massacred his clan in the Heian Era.
 
 In the sorcerer world, rumours that the Fujiwara Clan hasn’t birthed an innate technique for three generations have become common.
 
@@ -175,3 +175,27 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 | **C.E Efficiency** | **30**  |
 | **C.E Max**        | **150** |
 | Total              | 195     |
+# Skills
+
+## Combat Mastery
+
+### Hand-to-Hand
+
+| **Skill**   | **Level** | **Invested** |
+| ----------- | --------- | ------------ |
+| Offensive   | 4         | 7            |
+| Reactionary | 1         | 1            |
+
+### Weaponry
+
+| **Skill**         | **Level** | **Invested** |
+| ----------------- | --------- | ------------ |
+| Blunt : Melee     | 4         | 7            |
+| Blunt : Ranged    | 4         | 7            |
+| Slashing : Ranged | 2         | 3            |
+## Cursed Energy
+
+| **Skill**        | Invested | **Unlocked** |
+| ---------------- | -------- | ------------ |
+| Domain Expansion | 17       | I            |
+

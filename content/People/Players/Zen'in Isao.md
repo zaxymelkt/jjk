@@ -27,3 +27,27 @@
 | **C.E Efficiency** | **0** |
 | **C.E Max**        | **0** |
 | Total              | 0     |
+# Skills
+
+## Combat Mastery
+
+### Hand-to-Hand
+
+| **Skill** | **Level** | **Invested** |
+| --------- | --------- | ------------ |
+| Offensive | 1         | 1            |
+
+### Weaponry
+
+| **Skill**        | **Level** | **Invested** |
+| ---------------- | --------- | ------------ |
+| Slashing : Melee | 3         | 5            |
+
+## Cursed Energy
+
+| **Skill**                  | Invested | **Unlocked** |
+| -------------------------- | -------- | ------------ |
+| Domain Expansion           | 25       | Y            |
+| Simple Domain              | 10       | Y            |
+| Evening Moon Sword Drawing | 5        | Y            |
+

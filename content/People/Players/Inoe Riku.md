@@ -15,7 +15,7 @@ At first, it was very unsatisfactory as the two constantly clashed when it came 
 # Early Teens
 Since that incident, Riku and Miyo have finally officially become a real couple as they indeed fell in love with each other after such a long time. Constantly being together, the two often do what they can to please each other. Truly a wholesome romance. Even reaching the point where they exchanged rings to symbolize their love for each other. Having the time of their lives, Riku truly felt happy and believed that he indeed made the right choice in accepting her as his fiancé. But all good things must end. Resulting in the event that completely devastated him. While he was in one of his usual tournaments, his house ended up being set on fire by the same group of criminals from all those years ago. Upon returning home, Riku would find that everything he had been working for had perished… It was all taken from him in an instant. His life flashed before his eyes as he cried in pain and agony in front of his beloved. The emotion being so great that he would unintentionally curse and resurrect Miyo as a cursed spirit.
 # Middle Teens
-After that day, Riku had never been able to return to his original self, constantly grieving about the loss of his beloved and moreover… Now having her as a cursed spirit haunting him for the rest of his life. To be completely honest, at one point he made an attempt to end it all, for Miyo to halt him in his tracks. And with that, the boy was forced into attending a certain school at the request of his parents.
+After that day, Riku had never been able to return to his original self, constantly grieving about the loss of his beloved and moreover… Now having her as a cursed spirit haunting him for the rest of his life. To be completely honest, at one point he made an attempt to end it all, for [[Malignant Curse Resurrection|Miyo]] to halt him in his tracks. And with that, the boy was forced into attending a certain school at the request of his parents.
 # Statistics
 
 | Strength           | **10**  |
@@ -28,3 +28,25 @@ After that day, Riku had never been able to return to his original self, constan
 | **C.E Efficiency** | **25**  |
 | **C.E Max**        | **220** |
 | Total              | 187     |
+# Skills
+
+## Combat Mastery
+
+### Hand-to-Hand
+
+| **Skill** | **Level** | **Invested** |
+| --------- | --------- | ------------ |
+| Offensive | 5         | 9            |
+
+### Weaponry
+
+| **Skill**         | **Level** | **Invested** |
+| ----------------- | --------- | ------------ |
+| Slashing : Melee  | 4         | 7            |
+| Piercing : Ranged | 1         | 1            |
+## Cursed Energy
+
+| **Skill**        | Invested |
+| ---------------- | -------- |
+| Domain Expansion | I        |
+

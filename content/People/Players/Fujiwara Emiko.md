@@ -37,3 +37,28 @@ TBA.
 | **C.E Efficiency** | **25**  |
 | **C.E Max**        | **220** |
 | Total              | 195     |
+# Skills
+
+## Combat Mastery
+
+### Hand-to-Hand
+
+| **Skill** | **Level** | **Invested** |
+| --------- | --------- | ------------ |
+|           |           |              |
+|           |           |              |
+|           |           |              |
+### Weaponry
+
+| **Skill** | **Level** | **Invested** |
+| --------- | --------- | ------------ |
+|           |           |              |
+|           |           |              |
+## Cursed Energy
+
+| **Skill** | Invested |
+| --------- | -------- |
+|           |          |
+|           |          |
+|           |          |
+|           |          |

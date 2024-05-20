@@ -28,3 +28,28 @@ Months before enrolling into Kyoto Tech, the Gojo clan started paying attention 
 | **C.E Efficiency** | **25**  |
 | **C.E Max**        | **150** |
 | Total              | 188     |
+# Skills
+
+## Combat Mastery
+
+### Hand-to-Hand
+
+| **Skill** | **Level** | **Invested** |
+| --------- | --------- | ------------ |
+| Offensive | 1         | 1            |
+|           |           |              |
+|           |           |              |
+### Weaponry
+
+| **Skill** | **Level** | **Invested** |
+| --------- | --------- | ------------ |
+| ?         | 1         | 1            |
+|           |           |              |
+## Cursed Energy
+
+| **Skill**        | Invested |
+| ---------------- | -------- |
+| Domain Expansion | 25       |
+|                  |          |
+|                  |          |
+|                  |          |

@@ -27,3 +27,29 @@
 | **C.E Efficiency** | **0** |
 | **C.E Max**        | **0** |
 | Total              | 0     |
+
+# Skills
+
+## Combat Mastery
+
+### Hand-to-Hand
+
+| **Skill** | **Level** | **Invested** |
+| --------- | --------- | ------------ |
+|           |           |              |
+|           |           |              |
+|           |           |              |
+### Weaponry
+
+| **Skill** | **Level** | **Invested** |
+| --------- | --------- | ------------ |
+|           |           |              |
+|           |           |              |
+## Cursed Energy
+
+| **Skill** | Invested | **Unlocked** |
+| --------- | -------- | ------------ |
+|           |          |              |
+|           |          |              |
+|           |          |              |
+|           |          |              |
