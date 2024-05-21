@@ -192,10 +192,11 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 | ----------------- | --------- | ------------ |
 | Blunt : Melee     | 4         | 7            |
 | Blunt : Ranged    | 4         | 7            |
-| Slashing : Ranged | 2         | 3            |
+| Slashing : Ranged | 1         | 1            |
+| Slashing : Melee  | 1         | 1            |
 ## Cursed Energy
 
 | **Skill**        | Invested | **Unlocked** |
 | ---------------- | -------- | ------------ |
-| Domain Expansion | 17       | I            |
+| Domain Expansion | 18       | I            |
 
