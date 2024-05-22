@@ -165,16 +165,16 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 
 # Statistics
 
-| Strength           | **13**  |
+| Strength           | **22**  |
 | ------------------ | ------- |
 | **Agility**        | **30**  |
 | **Endurance**      | **30**  |
 | **Reaction**       | **30**  |
-| **C.E Output**     | **32**  |
-| **C.E Control**    | **30**  |
+| **C.E Output**     | **35**  |
+| **C.E Control**    | **35**  |
 | **C.E Efficiency** | **30**  |
 | **C.E Max**        | **150** |
-| Total              | 195     |
+| Total              | 212     |
 # Skills
 
 ## Combat Mastery
@@ -191,12 +191,13 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 | **Skill**         | **Level** | **Invested** |
 | ----------------- | --------- | ------------ |
 | Blunt : Melee     | 4         | 7            |
-| Blunt : Ranged    | 4         | 7            |
-| Slashing : Ranged | 2         | 3            |
+| Blunt : Ranged    | 5         | 9            |
+| Slashing : Ranged | 1         | 1            |
 
 ## Cursed Energy
 
 | **Skill**        | Invested | **Unlocked** |
 | ---------------- | -------- | ------------ |
-| Domain Expansion | 17       | I            |
+| Domain Expansion | 25       | Y            |
+| Simple Domain    | 2        | N            |
 

@@ -91,3 +91,15 @@ Careful where you step, a Calamity lies near. Nestled within your soul, a raging
 - 17 Cursed Energy Reserves.
 
 # [Maximum Technique] Furnace
+
+Normal Usage
+**Binding Vow**
+Furnace is set to only be capable of targeting a single individual. In return, it no longer suffers from the speed debuff.
+
++8 C.E.O
+
+Inside Domain
+Furance is no longer single target.
+
++15 C.E.O
+

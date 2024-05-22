@@ -18,16 +18,16 @@
 
 # Statistics
 
-| Strength           | **0** |
-| ------------------ | ----- |
-| **Agility**        | **0** |
-| **Endurance**      | **0** |
-| **Reaction**       | **0** |
-| **C.E Output**     | **0** |
-| **C.E Control**    | **0** |
-| **C.E Efficiency** | **0** |
-| **C.E Max**        | **0** |
-| Total              | 0     |
+| Strength           | **5**   |
+| ------------------ | ------- |
+| **Agility**        | **30**  |
+| **Endurance**      | **30**  |
+| **Reaction**       | **31**  |
+| **C.E Output**     | **30**  |
+| **C.E Control**    | **30**  |
+| **C.E Efficiency** | **35**  |
+| **C.E Max**        | **150** |
+| Total              | 191     |
 # Skills
 
 ## Combat Mastery
@@ -36,20 +36,20 @@
 
 | **Skill** | **Level** | **Invested** |
 | --------- | --------- | ------------ |
-|           |           |              |
+| Offensive | 2         | 3            |
 |           |           |              |
 |           |           |              |
 ### Weaponry
 
-| **Skill** | **Level** | **Invested** |
-| --------- | --------- | ------------ |
-|           |           |              |
-|           |           |              |
+| **Skill**         | **Level** | **Invested** |
+| ----------------- | --------- | ------------ |
+| Piercing : Ranged | 5         | 9            |
+| Slashing : Melee  | 1         | 1            |
 ## Cursed Energy
 
-| **Skill** | Invested |
-| --------- | -------- |
-|           |          |
-|           |          |
-|           |          |
-|           |          |
+| **Skill**        | Invested | **Unlocked** |
+| ---------------- | -------- | ------------ |
+| Domain Expansion | 15       | I            |
+| Simple Domain    | 10       | Y            |
+|                  |          |              |
+|                  |          |              |
