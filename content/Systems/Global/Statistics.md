@@ -93,18 +93,18 @@ Reacting to an attack requires both the reaction speed and agility, but also mov
 
 | **Points Invested** | **RAC SPD** | **Targets** | **Objects** | **Hearing** | **Sight** | **CE** | **Actions** |
 | ------------------- | ----------- | ----------- | ----------- | ----------- | --------- | ------ | ----------- |
-| 5                   | +4          | 1           | 2           | 10m         | 15m       | 0.25m  | 1           |
-| 10                  | +6          | 2           | 2           | 12m         | 17m       | 0.5m   | 1           |
-| 15                  | +8          | 2           | 3           | 14m         | 19m       | 0.75m  | 2           |
-| 20                  | +10         | 3           | 4           | 16m         | 21m       | 1m     | 2           |
-| 25                  | +12         | 3           | 4           | 18m         | 23m       | 1.25m  | 3           |
-| 30                  | +13         | 4           | 5           | 20m         | 25m       | 1.5m   | 3           |
-| 35                  | +15         | 4           | 5           | 22m         | 27m       | 1.75m  | 4           |
-| 40                  | +17         | 4           | 5           | 24m         | 29m       | 2m     | 4           |
-| 45                  | +19         | 5           | 6           | 26m         | 31m       | 2.25m  | 5           |
-| 50                  | +21         | 5           | 6           | 28m         | 33m       | 2.5m   | 5           |
-| 55                  | +23         | 5           | 7           | 30m         | 35m       | 2.75m  | 6           |
-| 60                  | +25         | 6           | 7           | 35m         | 40m       | 3m     | 6           |
+| 5                   | +5          | 1           | 2           | 10m         | 15m       | 0.25m  | 1           |
+| 10                  | +7          | 2           | 2           | 12m         | 17m       | 0.5m   | 1           |
+| 15                  | +9          | 2           | 3           | 14m         | 19m       | 0.75m  | 2           |
+| 20                  | +11         | 3           | 4           | 16m         | 21m       | 1m     | 2           |
+| 25                  | +13         | 3           | 4           | 18m         | 23m       | 1.25m  | 3           |
+| 30                  | +15         | 4           | 5           | 20m         | 25m       | 1.5m   | 3           |
+| 35                  | +17         | 4           | 5           | 22m         | 27m       | 1.75m  | 4           |
+| 40                  | +19         | 4           | 5           | 24m         | 29m       | 2m     | 4           |
+| 45                  | +21         | 5           | 6           | 26m         | 31m       | 2.25m  | 5           |
+| 50                  | +23         | 5           | 6           | 28m         | 33m       | 2.5m   | 5           |
+| 55                  | +25         | 5           | 7           | 30m         | 35m       | 2.75m  | 6           |
+| 60                  | +27         | 6           | 7           | 35m         | 40m       | 3m     | 6           |
 
 Actions are defined as a use of combat moves, attacks, and or individual activations of a cursed technique; in addition, chanting. While an individual is able to respond to as many attacks as they can focus on, they can only dish out a set amount of physical combos or cursed techniques outside of defensive manoeuvres such as blocking, evading, or using Cursed Energy infusion.
 
