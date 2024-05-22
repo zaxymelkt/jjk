@@ -42,6 +42,7 @@ Upon making contact with an individual, and flowing your Cursed Energy through t
 - While in this suspended state, they are considered “stunned”. 
 - They immediately leave this state of suspended animation upon being struck, or if 1 turn passes.
 - If struck with a Cursed Technique or weapon, the properties attached to those attacks will not transfer, ( Bleed, burn, broken ) but the overall force will.
+	- The caster of the curse technique is allowed to cause status effects and injuries. These effects are restricted to level 2.
 - 15 Cursed Energy if used on its own.
 - 11 Cursed Energy if used after emerging from 24 Frames.
 
@@ -60,7 +61,7 @@ TBA.
 - Upon holding your hand to the air, you ‘freeze’ the particular moment into a suspended state. Upon doing so, you can quickly close your hand into a fist, colliding against the thin surface, causing a rapid combustion of cursed Energy to erupt down a line.
 - The range and size of this blast is roughly 5 Meters long and 1 Meter wide, those caught within the Blast are damaged at your C.E Output+5.
 - The combustion of the blast happens at your C.E Control.
-- 24 Cursed Energy.
+- 22 Cursed Energy.
 
   
   
@@ -76,6 +77,10 @@ TBA.
 - 27 Cursed Energy.
 ## Air Freeze:
 TBA.
+- Upon holding your hand to the air, you ‘freeze’ the particular moment into a suspended state. Upon doing so, you can quickly close your hand into a fist, colliding against the thin surface, causing a rapid combustion of cursed Energy to erupt down a line.
+- The range and size of this blast is roughly 8 Meters long and 2 Meter wide, those caught within the Blast are damaged at your C.E Output+7.
+- The combustion of the blast happens at your C.E Control+2.
+- 29 Cursed Energy.
 
 # 50 Cursed Energy Control : 
 ## 24 Frames:
