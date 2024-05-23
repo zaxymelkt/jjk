@@ -99,7 +99,7 @@ After your Incomplete Domain is broken or dropped, you gain [[Status Conditions#
 
 The amount of turns a sorcerer can maintain their domain before it forcefully ends depends on the sorcerer's [[Statistics#Cursed Energy Efficiency|C.E Efficiency]] stat.
 
-Costing 50 [[Statistics#Cursed Energy Max|cursed energy]] to initiate, the domain can be sustained for a base of 3 emotes; ending at the start of the player's 4th turn.
+Costing 40 [[Statistics#Cursed Energy Max|cursed energy]] to initiate, the domain can be sustained for a base of 3 emotes; ending at the start of the player's 4th turn.
 
 - At 30 C.E Efficiency the domain can be maintained for 4 full turns.
 - At 40 C.E Efficiency the domain can be maintained for 4 full turns. Lasting for 1 action of the 5th turn.
@@ -120,7 +120,7 @@ Domains are forcibly broken if the user drops below half of their health, or sus
 
 The amount of turns a sorcerer can maintain their domain before it forcefully ends depends on the sorcerer's [[Statistics#Cursed Energy Efficiency|C.E Efficiency]] stat.
 
-Costing 60 [[Statistics#Cursed Energy Max|cursed energy]] to initiate, the domain can be sustained for a base of 4 emotes; ending at the start of the player's 5th turn.
+Costing 50 [[Statistics#Cursed Energy Max|cursed energy]] to initiate, the domain can be sustained for a base of 4 emotes; ending at the start of the player's 5th turn.
 
 - At 35 C.E Efficiency the domain can be maintained for 5 full turns.
 - At 45 C.E Efficiency the domain can be maintained for 6 full turns.

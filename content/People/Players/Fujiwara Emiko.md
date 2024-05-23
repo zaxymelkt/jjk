@@ -27,16 +27,16 @@ TBA.
 TBA.
 # Statistics
 
-| Strength           | **15**  |
+| Strength           | **30**  |
 | ------------------ | ------- |
 | **Agility**        | **30**  |
 | **Endurance**      | **30**  |
 | **Reaction**       | **35**  |
-| **C.E Output**     | **30**  |
+| **C.E Output**     | **31**  |
 | **C.E Control**    | **30**  |
-| **C.E Efficiency** | **25**  |
+| **C.E Efficiency** | **26**  |
 | **C.E Max**        | **220** |
-| Total              | 195     |
+| Total              | 212     |
 # Skills
 
 ## Combat Mastery
@@ -53,15 +53,15 @@ TBA.
 | **Skill**         | **Level** | **Invested** |
 | ----------------- | --------- | ------------ |
 | Piercing : Ranged | 4         | 7            |
-| Slashing : Melee  | 3         | 5            |
+| Blunt : Melee     | 3         | 5            |
 
 ## Cursed Energy
 
-| **Skill**           | Invested | **Unlocked** |
-| ------------------- | -------- | ------------ |
-| Simple Domain       | 10       | Y            |
-| Batto Sword Drawing | 3        | Y            |
-| Domain Expansion    | 3        | N            |
+| **Skill**            | Invested | **Unlocked** |
+| -------------------- | -------- | ------------ |
+| Simple Domain        | 10       | Y            |
+| Domain Expansion     | 15       | I            |
+| Hollow Wicker Basket | 3        | N            |
 
 # Subjugated Curses 
 

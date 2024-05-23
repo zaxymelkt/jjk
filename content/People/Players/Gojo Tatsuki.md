@@ -21,10 +21,10 @@ Months before enrolling into Kyoto Tech, the Gojo clan started paying attention 
 | Strength           | **20**  |
 | ------------------ | ------- |
 | **Agility**        | **30**  |
-| **Endurance**      | **25**  |
-| **Reaction**       | **25**  |
+| **Endurance**      | **30**  |
+| **Reaction**       | **35**  |
 | **C.E Output**     | **35**  |
-| **C.E Control**    | **28**  |
+| **C.E Control**    | **30**  |
 | **C.E Efficiency** | **25**  |
 | **C.E Max**        | **150** |
 | Total              | 188     |

@@ -48,3 +48,15 @@ A year prior however, he received glasses from some guy who was doing a little t
 | Slashing : Melee  | 3         | 5            |
 | Blunt : Melee     | 3         | 5            |
 | Piercing : Ranged | 5         | 9            |
+
+**Martial Adept**
+[ Martial Adept] Quick Reload
+Shinji can reload his Boomstick faster, allowing for two more shells to be loaded, allowing the gun to be fired two more times in the same turn or even while it would normally be on cooldown. Once fired, the cooldown will reset.
+- This consumes 1 action and has a cooldown of 2 turns.
+- These two shots will have increased potency, traveling at Reaction +2 and damaging at Strength +2 on top of the normal buffs.
+
+[ Martial Adept ] Asura's Defiance
+When using this technique, Shinji moves at such a speed that he appears to have multiple sets of hands. As such, he's able to switch off from the weapon he's using to a different one almost instantly and use it within the same action.
+- This move can be used for 4 actions in a single turn and has a cooldown of 4 turns.
+- When switching to other weapons, they will move at a heightened speed of +6.
+- This technique will also give +2 target focus while being used.
