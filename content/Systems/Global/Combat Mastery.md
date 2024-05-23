@@ -19,7 +19,7 @@ Skill Point investment is concurrent. The above means ‘the total amount’ inv
 > [!tip]
 > The included Lv1 is considered to have 1 SP invested.
 
-You may invest into a total of 16 levels across the entire system, the exact combination of levels does not matter.
+You may invest into a total of 15 levels across the entire system, the exact combination of levels does not matter.
 # Hand-to-Hand Combat
 
 Hand-to-Hand or Martial Combat Mastery is broken up into 4 fields of study: Offensive, Defensive, Reactionary, and Balance. Each has its strengths and finding a balance between the fighting styles is different for each individual. A single martial art is not composed of a single line of thinking, each incorporates some form of each system.
