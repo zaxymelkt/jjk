@@ -18,16 +18,17 @@ In the final week of his 8th Grade year, he instantly got every one of his grade
 Months before enrolling into Kyoto Tech, the Gojo clan started paying attention to Tatsuki a lot more. This was because it was revealed that Tatsuki was somewhat of a generational anomaly, he had unlocked the power of the Six Eyes, a technique that only appeared within the Gojo Clan once in a generation. From then on, Tatsuki’s confidence grew larger and larger, and the clan gained a new hope once again. It had never been heard of that a member of the Gojo Clan would unlock the Six Eyes at the age of 16, usually the person would be born with it, though nobody was complaining, the excitement of a new [[Six Eyes]] user was overwhelming.
 # Statistics
 
-| Strength           | **20**  |
-| ------------------ | ------- |
-| **Agility**        | **30**  |
-| **Endurance**      | **30**  |
-| **Reaction**       | **35**  |
-| **C.E Output**     | **35**  |
-| **C.E Control**    | **30**  |
-| **C.E Efficiency** | **25**  |
-| **C.E Max**        | **150** |
-| Total              | 188     |
+| Stat               | Investment |
+| ------------------ | ---------- |
+| **Strength**       | **20**     |
+| **Agility**        | **30**     |
+| **Endurance**      | **30**     |
+| **Reaction**       | **35**     |
+| **C.E Output**     | **35**     |
+| **C.E Control**    | **30**     |
+| **C.E Efficiency** | **25**     |
+| **C.E Max**        | **150**    |
+| Total              | 188        |
 # Skills
 
 ## Combat Mastery

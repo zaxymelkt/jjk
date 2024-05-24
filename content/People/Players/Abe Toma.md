@@ -18,16 +18,17 @@
 
 # Statistics
 
-| Strength           | **5**   |
-| ------------------ | ------- |
-| **Agility**        | **30**  |
-| **Endurance**      | **30**  |
-| **Reaction**       | **31**  |
-| **C.E Output**     | **30**  |
-| **C.E Control**    | **30**  |
-| **C.E Efficiency** | **35**  |
-| **C.E Max**        | **150** |
-| Total              | 191     |
+| Stat               | Investment |
+| ------------------ | ---------- |
+| **Strength**       | **5**      |
+| **Agility**        | **30**     |
+| **Endurance**      | **30**     |
+| **Reaction**       | **31**     |
+| **C.E Output**     | **30**     |
+| **C.E Control**    | **30**     |
+| **C.E Efficiency** | **35**     |
+| **C.E Max**        | **150**    |
+| Total              | 191        |
 # Skills
 
 ## Combat Mastery

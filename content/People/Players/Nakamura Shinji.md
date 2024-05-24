@@ -21,16 +21,17 @@ A year prior however, he received glasses from some guy who was doing a little t
 
 # Statistics
 
-| Strength           | **40** |
-| ------------------ | ------ |
-| **Agility**        | **32** |
-| **Endurance**      | **30** |
-| **Reaction**       | **40** |
-| **C.E Output**     | **0**  |
-| **C.E Control**    | **0**  |
-| **C.E Efficiency** | **0**  |
-| **C.E Max**        | **0**  |
-| Total              | 172    |
+| **Stat**           | **Investment** | **Passives** |
+| ------------------ | -------------- | ------------ |
+| **Strength**       | **42**         | +1           |
+| **Agility**        | **37**         | +1           |
+| **Endurance**      | **37**         | +1           |
+| **Reaction**       | **42**         | +1           |
+| **C.E Output**     | **0**          |              |
+| **C.E Control**    | **0**          |              |
+| **C.E Efficiency** | **0**          |              |
+| **C.E Max**        | **0**          |              |
+| Total              | 172            |              |
 # Skills
 
 ## Combat Mastery
@@ -40,13 +41,14 @@ A year prior however, he received glasses from some guy who was doing a little t
 | **Skill** | **Level** | **Invested** |
 | --------- | --------- | ------------ |
 | Offensive | 3         | 5            |
+| Defensive | 1         | 1            |
 
 ### Weaponry
 
 | **Skill**         | **Level** | **Invested** |
 | ----------------- | --------- | ------------ |
-| Slashing : Melee  | 3         | 5            |
-| Blunt : Melee     | 3         | 5            |
+| Slashing : Melee  | 5         | 9            |
+| Blunt : Melee     | 5         | 9            |
 | Piercing : Ranged | 5         | 9            |
 
 **Martial Adept**

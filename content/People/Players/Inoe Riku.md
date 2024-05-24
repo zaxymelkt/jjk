@@ -18,16 +18,17 @@ Since that incident, Riku and Miyo have finally officially become a real couple 
 After that day, Riku had never been able to return to his original self, constantly grieving about the loss of his beloved and moreover… Now having her as a cursed spirit haunting him for the rest of his life. To be completely honest, at one point he made an attempt to end it all, for [[Malignant Curse Resurrection|Miyo]] to halt him in his tracks. And with that, the boy was forced into attending a certain school at the request of his parents.
 # Statistics
 
-| Strength           | **10**  |
-| ------------------ | ------- |
-| **Agility**        | **29**  |
-| **Endurance**      | **25**  |
-| **Reaction**       | **28**  |
-| **C.E Output**     | **35**  |
-| **C.E Control**    | **35**  |
-| **C.E Efficiency** | **25**  |
-| **C.E Max**        | **220** |
-| Total              | 187     |
+| Stat               | Investment |
+| ------------------ | ---------- |
+| **Strength**       | **10**     |
+| **Agility**        | **29**     |
+| **Endurance**      | **25**     |
+| **Reaction**       | **28**     |
+| **C.E Output**     | **35**     |
+| **C.E Control**    | **35**     |
+| **C.E Efficiency** | **25**     |
+| **C.E Max**        | **220**    |
+| Total              | 187        |
 # Skills
 
 ## Combat Mastery

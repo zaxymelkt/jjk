@@ -49,16 +49,17 @@ Though the shadow of the Zenin Clan's scrutiny still loomed over her, Suiren ref
 
 # Statistics
 
-| Strength           | **25**  |
-| ------------------ | ------- |
-| **Agility**        | **25**  |
-| **Endurance**      | **25**  |
-| **Reaction**       | **25**  |
-| **C.E Output**     | **33**  |
-| **C.E Control**    | **25**  |
-| **C.E Efficiency** | **25**  |
-| **C.E Max**        | **150** |
-| Total              | 187     |
+| Stat               | Investment |
+| ------------------ | ---------- |
+| **Strength**       | **25**     |
+| **Agility**        | **25**     |
+| **Endurance**      | **25**     |
+| **Reaction**       | **25**     |
+| **C.E Output**     | **33**     |
+| **C.E Control**    | **25**     |
+| **C.E Efficiency** | **25**     |
+| **C.E Max**        | **150**    |
+| Total              | 187        |
 
 # Skills
 

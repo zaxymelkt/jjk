@@ -27,16 +27,17 @@ TBA.
 TBA.
 # Statistics
 
-| Strength           | **30**  |
-| ------------------ | ------- |
-| **Agility**        | **30**  |
-| **Endurance**      | **30**  |
-| **Reaction**       | **35**  |
-| **C.E Output**     | **31**  |
-| **C.E Control**    | **30**  |
-| **C.E Efficiency** | **26**  |
-| **C.E Max**        | **220** |
-| Total              | 212     |
+| **Stat**           | **Investment** |
+| ------------------ | -------------- |
+| **Strength**       | **30**         |
+| **Agility**        | **30**         |
+| **Endurance**      | **30**         |
+| **Reaction**       | **35**         |
+| **C.E Output**     | **31**         |
+| **C.E Control**    | **30**         |
+| **C.E Efficiency** | **26**         |
+| **C.E Max**        | **220**        |
+| Total              | 212            |
 # Skills
 
 ## Combat Mastery

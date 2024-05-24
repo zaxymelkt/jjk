@@ -17,16 +17,17 @@
 
 # Statistics
 
-| Strength           | **0** |
-| ------------------ | ----- |
-| **Agility**        | **0** |
-| **Endurance**      | **0** |
-| **Reaction**       | **0** |
-| **C.E Output**     | **0** |
-| **C.E Control**    | **0** |
-| **C.E Efficiency** | **0** |
-| **C.E Max**        | **0** |
-| Total              | 0     |
+| Stat               | Investment |
+| ------------------ | ---------- |
+| **Strength**       | **22**     |
+| **Agility**        | **35**     |
+| **Endurance**      | **30**     |
+| **Reaction**       | **30**     |
+| **C.E Output**     | **30**     |
+| **C.E Control**    | **35**     |
+| **C.E Efficiency** | **30**     |
+| **C.E Max**        | **150**    |
+| Total              | 212        |
 # Skills
 
 ## Combat Mastery
@@ -47,7 +48,7 @@
 
 | **Skill**                  | Invested | **Unlocked** |
 | -------------------------- | -------- | ------------ |
-| Domain Expansion           | 22       | I            |
+| Domain Expansion           | 25       | Y            |
 | Simple Domain              | 10       | Y            |
 | Evening Moon Sword Drawing | 5        | Y            |
 

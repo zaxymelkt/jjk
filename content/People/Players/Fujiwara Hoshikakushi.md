@@ -165,16 +165,17 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 
 # Statistics
 
-| Strength           | **22**  |
-| ------------------ | ------- |
-| **Agility**        | **30**  |
-| **Endurance**      | **30**  |
-| **Reaction**       | **30**  |
-| **C.E Output**     | **35**  |
-| **C.E Control**    | **35**  |
-| **C.E Efficiency** | **30**  |
-| **C.E Max**        | **150** |
-| Total              | 212     |
+| **Stat**           | **Investment** |
+| ------------------ | -------------- |
+| **Strength**       | **22**         |
+| **Agility**        | **30**         |
+| **Endurance**      | **30**         |
+| **Reaction**       | **30**         |
+| **C.E Output**     | **35**         |
+| **C.E Control**    | **35**         |
+| **C.E Efficiency** | **30**         |
+| **C.E Max**        | **150**        |
+| Total              | 212            |
 # Skills
 
 ## Combat Mastery

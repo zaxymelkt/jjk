@@ -53,16 +53,17 @@ To be continued…
 
 # Statistics
 
-| Strength           | **15**  |
-| ------------------ | ------- |
-| **Agility**        | **25**  |
-| **Endurance**      | **30**  |
-| **Reaction**       | **26**  |
-| **C.E Output**     | **35**  |
-| **C.E Control**    | **35**  |
-| **C.E Efficiency** | **20**  |
-| **C.E Max**        | **310** |
-| Total              | 186     |
+| **Stat**           | Investment |
+| ------------------ | ---------- |
+| **Strength**       | **15**     |
+| **Agility**        | **25**     |
+| **Endurance**      | **30**     |
+| **Reaction**       | **26**     |
+| **C.E Output**     | **35**     |
+| **C.E Control**    | **35**     |
+| **C.E Efficiency** | **20**     |
+| **C.E Max**        | **310**    |
+| Total              | 186        |
 
 # Skills
 

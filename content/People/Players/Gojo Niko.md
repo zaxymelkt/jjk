@@ -17,16 +17,17 @@ Tragedy struck when Yuta was killed at the age of 14 during a battle against a t
 Following Yuta's death, the expectations placed on Niko intensified. She was expected to surpass her deceased brother's achievements, a burden she resented. Feeling suffocated by these expectations and the constant comparisons, Niko decided to leave home without leaving a note. Seeking freedom and a chance to define herself on her own terms, she enrolled in Jujutsu High at the age of 15. There, she began rebelling against her upbringing by adopting tattoos, piercings, and smoking, determined to succeed not for her family's sake, but out of sheer defiance.
 # Statistics
 
-| Strength           | **18**  |
-| ------------------ | ------- |
-| **Agility**        | **25**  |
-| **Endurance**      | **20**  |
-| **Reaction**       | **25**  |
-| **C.E Output**     | **30**  |
-| **C.E Control**    | **25**  |
-| **C.E Efficiency** | **35**  |
-| **C.E Max**        | **220** |
-| Total              | 182     |
+| Stat               | Investment |
+| ------------------ | ---------- |
+| **Strength**       | **18**     |
+| **Agility**        | **25**     |
+| **Endurance**      | **20**     |
+| **Reaction**       | **25**     |
+| **C.E Output**     | **30**     |
+| **C.E Control**    | **25**     |
+| **C.E Efficiency** | **35**     |
+| **C.E Max**        | **220**    |
+| Total              | 182        |
 
 # Equipment
 ## Soul Split Katana
