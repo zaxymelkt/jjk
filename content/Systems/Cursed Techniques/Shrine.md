@@ -91,15 +91,22 @@ Careful where you step, a Calamity lies near. Nestled within your soul, a raging
 - 17 Cursed Energy Reserves.
 
 # [Maximum Technique] Furnace
+The Divine Flame, a harbinger of calamity and despair, shatters the barriers between realities, leaving behind a trail of devastation that scorches the very fabric of existence. This force, both precise and chaotic, is unleashed upon the world through a single chant: "Open." A gateway to realms beyond human understanding is thus revealed, and the flame takes shape, becoming a vessel for the divine conflagration. Its course is set by the whims of destiny, guiding it towards its inevitable conclusion—death.
 
-Normal Usage
-**Binding Vow**
-Furnace is set to only be capable of targeting a single individual. In return, it no longer suffers from the speed debuff.
+This invocation, once spoken, sets in motion a chain of events that cannot be undone. The flame, now an arrow of destruction, soars through the heavens, its path etched in the annals of time. Each step forward is a leap into the abyss
+- The Divine Flame strikes the users target at a strength equal to their C.E Output +8.
+- Furnace has one major drawback, its explosive power comes at the cost of reducing its speed drastically. The arrow is fired and travels at a speed equalling your C.E Control-6.
+- The incredible heat of your Divine Flame scorches the earth, inflicting Burn 2 on impact with your target.
+- When activating this technique, you must chant the command “Open” before forming the arrow.
+- Furnace has an effective range of 12 Meters
+- Upon making contact with your target, the arrow explodes in a 4x4 Meter cloud of raging fire.
+- 28 Cursed Energy Reserves.
+This technique comes pre-imposed with a Binding Vow
+- While within a Complete Domain, Furnace receives a drastic increase in power. Now striking at a force equal to the users C.E Output +12.
+- This improved Furnace also inflicts Burn 3.
+- This arrow can only be fired at a single target.
+- The range of its explosion increases by 2 meters in each direction.
+- Upon casting this technique, your Domain immediately crumbles.
+- The cost of this technique increases by 12 Cursed Energy Reserves.
 
-+8 C.E.O
-
-Inside Domain
-Furance is no longer single target.
-
-+15 C.E.O
 
