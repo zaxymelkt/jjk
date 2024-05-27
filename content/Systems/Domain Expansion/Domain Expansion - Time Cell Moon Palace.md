@@ -4,7 +4,7 @@
  tags:
     -
 ---
-# Complete
+# Domain Expansion - Time Cell Moon Palace
 Expanding this domain casts a black empty area save for a few floating particles and the main stage of the environment. The primary stage of the Time Cell Moon Palace is comprised of a straight path of flesh that leads to a large eye behind the caster. The auto-hit function of the domain injects films of animation frames into the neck of its targets. Anyone who moves within the domain must abide by the 24FPS rule of Projection Sorcery or they will receive numerous bloody injuries with every movement. 
 
 - Within in the domain, all things are 'touching' the user's palm. 
