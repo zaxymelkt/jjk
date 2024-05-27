@@ -90,7 +90,7 @@ Careful where you step, a Calamity lies near. Nestled within your soul, a raging
 - Dismantle has an effective range of 20 Meters at this level.
 - 17 Cursed Energy Reserves.
 
-# [Maximum Technique] Furnace
+# Maximum Technique Furnace
 The Divine Flame, a harbinger of calamity and despair, shatters the barriers between realities, leaving behind a trail of devastation that scorches the very fabric of existence. This force, both precise and chaotic, is unleashed upon the world through a single chant: "Open." A gateway to realms beyond human understanding is thus revealed, and the flame takes shape, becoming a vessel for the divine conflagration. Its course is set by the whims of destiny, guiding it towards its inevitable conclusion—death.
 
 This invocation, once spoken, sets in motion a chain of events that cannot be undone. The flame, now an arrow of destruction, soars through the heavens, its path etched in the annals of time. Each step forward is a leap into the abyss

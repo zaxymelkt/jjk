@@ -10,7 +10,7 @@
 > The domain functions under three directives:
 > - [[Shrine#Cleave|Cleave]] all Cursed Energy
 > - [[Shrine#Dismantle|Dismantle]] the Environment
-> - [[Shrine#[Maximum Technique] Furnace|Incinerate]] the Fallen.
+> - [[Shrine#Maximum Technique Furnace|Incinerate]] the Fallen.
 > 
 > During the manifestation of the domain, individuals holding either Hoshikakushi's left or right hand are positioned alongside him at the heart of the shrine. However, this arrangement prevents Hoshikakushi from denying access to anyone entering during manifestation. Notably, only Fujiwara Emiko is permitted to grasp his left hand.
 > 
