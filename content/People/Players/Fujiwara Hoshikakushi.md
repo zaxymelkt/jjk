@@ -165,17 +165,17 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 
 # Statistics
 
-| **Stat**           | **Investment** |
-| ------------------ | -------------- |
-| **Strength**       | **22**         |
-| **Agility**        | **30**         |
-| **Endurance**      | **30**         |
-| **Reaction**       | **30**         |
-| **C.E Output**     | **35**         |
-| **C.E Control**    | **35**         |
-| **C.E Efficiency** | **30**         |
-| **C.E Max**        | **150**        |
-| Total              | 212            |
+| **Stat**           | **Investment** | **Buffs**                    |
+| ------------------ | -------------- | ---------------------------- |
+| **Strength**       | **26**         | [Infusion] +4                |
+| **Agility**        | **30**         |                              |
+| **Endurance**      | **30**         |                              |
+| **Reaction**       | **30**         |                              |
+| **C.E Output**     | **35**         | [Cleave] +6 \| [Infusion] +2 |
+| **C.E Control**    | **35**         | [Dismantle] +5               |
+| **C.E Efficiency** | **30**         |                              |
+| **C.E Max**        | **150**        |                              |
+| Total              | 216            |                              |
 # Skills
 
 ## Combat Mastery
@@ -189,10 +189,10 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 
 ### Weaponry
 
-| **Skill**      | **Level** | **Invested** |
-| -------------- | --------- | ------------ |
-| Blunt : Melee  | 4         | 7            |
-| Blunt : Ranged | 5         | 9            |
+| **Skill**      | **Level** | **Invested** | **Buffs**                      |
+| -------------- | --------- | ------------ | ------------------------------ |
+| Blunt : Melee  | 5         | 9            | +6 [ATK STR]                   |
+| Blunt : Ranged | 5         | 9            | +4 [ATK STR] \| -2 [Dodge SPD] |
 
 
 ## Cursed Energy
@@ -200,5 +200,4 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 | **Skill**        | Invested | **Unlocked** |
 | ---------------- | -------- | ------------ |
 | Domain Expansion | 25       | Y            |
-| Simple Domain    | 3        | N            |
-
+| Simple Domain    | 4        | N            |
