@@ -167,7 +167,7 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 
 | **Stat**           | **Investment** | **Buffs**                    |
 | ------------------ | -------------- | ---------------------------- |
-| **Strength**       | **26**         | [Infusion] +4                |
+| **Strength**       | **30**         | [Infusion] +4                |
 | **Agility**        | **30**         |                              |
 | **Endurance**      | **30**         |                              |
 | **Reaction**       | **30**         |                              |
@@ -175,7 +175,7 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 | **C.E Control**    | **35**         | [Dismantle] +5               |
 | **C.E Efficiency** | **30**         |                              |
 | **C.E Max**        | **150**        |                              |
-| Total              | 216            |                              |
+| Total              | 220            |                              |
 # Skills
 
 ## Combat Mastery
@@ -184,7 +184,7 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 
 | **Skill**   | **Level** | **Invested** |
 | ----------- | --------- | ------------ |
-| Offensive   | 4         | 7            |
+| Offensive   | 5         | 9            |
 | Reactionary | 1         | 1            |
 
 ### Weaponry
@@ -200,4 +200,4 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 | **Skill**        | Invested | **Unlocked** |
 | ---------------- | -------- | ------------ |
 | Domain Expansion | 25       | Y            |
-| Simple Domain    | 4        | N            |
+| Simple Domain    | 5        | N            |
