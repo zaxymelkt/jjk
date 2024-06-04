@@ -20,6 +20,6 @@
 > 
 > While [[Shrine#Cleave|Cleave]] and [[Shrine#Dismantle|Dismantle]] are active, the Shrine doors remain open. Uniquely, Hoshikakushi is not the source of these attacks; instead, the shrine itself generates them. 
 > 
-> To maximise the effectiveness of the '[[Shrine#[Maximum Technique] Furnace|Furnace]]' technique, the shrine doors shut, indicating the technique's initiation. The shrine then ignites, and the charred remains dispersed throughout the domain guide the technique towards its intended targets, consuming them. Should any perish, they join the ranks of the crucified.
+> To maximise the effectiveness of the '[[Shrine#Maximum Technique Furnace|Furnace]]' technique, the shrine doors shut, indicating the technique's initiation. The shrine then ignites, and the charred remains dispersed throughout the domain guide the technique towards its intended targets, consuming them. Should any perish, they join the ranks of the crucified.
 
 **[[Shrine#Dismantle|Dismantle]]** can be used 3 times without cost or **[[Shrine#Cleave|Cleave]]** can be used once and **[[Shrine#Dismantle|Dismantle]]** once per turn without cost. **[[Shrine#Cleave|Cleave]]** cooldown turned to per level. **CT** usage targets all within the effect area. **[[Shrine#Cleave|Cleave]]** is limited to [ Lv 4 ]. **[[Shrine#Cleave|Cleave]]** and **[[Shrine#Dismantle|Dismantle]]** targets retain [ Favourable Evasion ].
