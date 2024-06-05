@@ -163,6 +163,8 @@ Following her arrow's release, Emiko swiftly moved to Hoshikakushi, her hands gl
 
 Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping the room in a dense, malevolent aura of cursed energy. The oppressive weight of his energy bore down on everything around him. Hoshikakushi appeared altered, as if a portion of his being had remained in the realm of the dead.
 
+
+
 # Statistics
 
 | **Stat**           | **Investment** | **Buffs**                    |
