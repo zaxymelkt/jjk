@@ -14,6 +14,7 @@ Created as a counter for domain expansions, Simple Domain neutralizes a domain's
 - 16 Cursed Energy.
 - 10 Cursed Energy per turn.
 - 2 Turn Cooldown after it breaks.
+- You cannot use your cursed technique while using a Simple Domain.
 - While active, the Simple Domain has 20 Health, and an Endurance equal to your C.E Output. When targeted by a ‘Sure-hit’ attack, the Simple Domains health pool is reduced instead of yours. Additionally, when hit with Cursed Techniques that are not launched from within a Domain, it reduces all damage taken by 3, which is subtracted from the Simple Domains Health Pool.
 
 ## New Shadow Style
@@ -28,6 +29,7 @@ Developed as a countermeasure when dealing with an incredibly agile and swift op
 - This technique costs an additional 7 Cursed Energy on top of the cost to infuse your weapon with Cursed Energy.
 - This technique cannot be used on a Large Weapon.
 - 2 Turn Cooldown.
+- You cannot use your cursed technique while using a Simple Domain.
 - Upon stepping within 2.21 Meters radius of the user, they swing their sword with an incredible flourish, gaining +8 Agility with doing so.
   - However, those who enter the space of this technique can dictate where this technique cuts them, such as in the arm, leg, or torso.
   - The user must immediately attack the first entity to enter the space within their domain.
@@ -43,6 +45,7 @@ This technique extrapolates the core concept of the New Shadow Style Kenjutsu, i
 - This technique has a 3 Turn Cooldown.
 - Removes your opponent's favourable evasion.
 - You may not make any additional attacks the turn it is used.
+- You cannot use your cursed technique while using a Simple Domain.
 - When drawing your sword, you gain +3 Agility to your first swing, and +1 Agility to your second.
 
 ## Clan Restricted Techniques
