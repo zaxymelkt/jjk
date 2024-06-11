@@ -148,23 +148,23 @@ When using Cursed Energy to protect or enhance a location, it will reduce the in
 
 | **Invested** | **Curtain Size** | **Curtain Stats**           | **Extra Conditions** | Cost (C) |
 | ------------ | ---------------- | --------------------------- | -------------------- | -------- |
-| 5            | 6 x 6 x 6 m      | C.E.O **-3** \| C.E.C       | N/A                  | 18 CE    |
-| 10           | 10 x 10 x 10m    | C.E.O **+2** \| C.E.C       | N/A                  | 25 CE    |
-| 20           | 15 x 15 x 15m    | C.E.O **+4** \|C.E.C        | N/A                  | 30 CE    |
-| 30           | 20 x 20 x 20m    | C.E.O **+6** \|C.E.C **+2** | One                  | 35 CE    |
-| 40           | 25 x 25 x 25m    | C.E.O **+6** \|C.E.C **+4** | One                  | 35 CE    |
-| 50           | 30 x 30 x 30m    | C.E.O **+8** \|C.E.C **+4** | Two                  | 40 CE    |
-| 60           | 40 x 40 x 40m    | C.E.O **+8** \|C.E.C **+6** | Three                | 55 CE    |
+| 5            | 6 x 6 x 6 m      | C.E.O -3 \| C.E.C           | N/A                  | 18 CE    |
+| 10           | 10 x 10 x 10m    | C.E.O +2 \| C.E.C           | N/A                  | 25 CE    |
+| 20           | 15 x 15 x 15m    | C.E.O +4 \|C.E.C            | N/A                  | 30 CE    |
+| 30           | 20 x 20 x 20m    | C.E.O 6 \|C.E.C +2      | One                  | 35 CE    |
+| 40           | 25 x 25 x 25m    | C.E.O +6 \|C.E.C +4 | One                  | 35 CE    |
+| 50           | 30 x 30 x 30m    | C.E.O +8 \|C.E.C +4 | Two                  | 40 CE    |
+| 60           | 40 x 40 x 40m    | C.E.O +8 \|C.E.C +6 | Three                | 55 CE    |
 
 ## Cursed Energy Infusion
-| **Invested** | **Infused ATK STR**      | **Infusion Control**                          | **Reduction** | **Cost/Turn** |
-| ------------ | ------------------------ | --------------------------------------------- | ------------- | ------------- |
-| 15           | C.E.O or STR**+2**       | One Limb                                      | -3 DMG        | 8 CE          |
-| 20           | C.E.O or STR**+2**       | Small or Medium [[Cursed Tools]]              | -3 DMG        | 8 CE          |
-| 25           | C.E.O**+1** or STR**+3** | Two Limbs \| Small or Medium [[Cursed Tools]] | -5 DMG        | 11 CE         |
-| 35           | C.E.O**+2** or STR**+4** | Upper/Lower Torso & Large [[Cursed Tools]]    | -5 DMG        | 15 CE         |
-| 45           | C.E.O**+3** or STR**+5** | Entire Body & Large [[Cursed Tools]]          | -5 DMG        | 19 CE         |
-| 55           | C.E.O**+5** or STR**+7** | Entire Body & Large [[Cursed Tools]]          | -5 DMG        | 21 CE         |
+| **Invested** | **Infused ATK STR** | **Infusion Control**                          | **Reduction** | **Cost/Turn** |
+| ------------ | ------------------- | --------------------------------------------- | ------------- | ------------- |
+| 15           | C.E.O or STR +2     | One Limb                                      | -3 DMG        | 8 CE          |
+| 20           | C.E.O or STR +2     | Small or Medium [[Cursed Tools]]              | -3 DMG        | 8 CE          |
+| 25           | C.E.O +1 or STR +3  | Two Limbs \| Small or Medium [[Cursed Tools]] | -5 DMG        | 11 CE         |
+| 35           | C.E.O +2 or STR +4  | Upper/Lower Torso & Large [[Cursed Tools]]    | -5 DMG        | 15 CE         |
+| 45           | C.E.O +3 or STR +5  | Entire Body & Large [[Cursed Tools]]          | -5 DMG        | 19 CE         |
+| 55           | C.E.O +5 or STR +7  | Entire Body & Large [[Cursed Tools]]          | -5 DMG        | 21 CE         |
 
 
 ## C.E Control [C.E.C]
@@ -189,23 +189,29 @@ Cursed Energy Control determines how effectively an individual controls their Cu
 ## C.E Efficiency [C.E.E]
 
 Cursed Energy Efficiency determines how efficiently an individual can use Cursed Energy as well as assists in other factors of Cursed Technique usage.
-| **Points Invested** | **CE Reduction** | **Domain** |
-|----------------------|---------------------------------|------------------------------------|
-| **5** | Increased cost of 3 CE | N/A |
-| **10** | Increased cost of 1 CE | N/A |
-| **15** | No increase in cost | N/A |
-| **20** | Decreased cost of 1 CE | N/A |
-| **25** | Decreased cost of 3 CE | N/A |
-| **30** | Decreased cost of 5 CE | N/A |
-| **35** | Decreased cost of 7 CE<br> | Restricted status effect lowered by 1 turn |
-| **40** | Decreased cost of 9 CE | Restricted status effect lowered by 1 turn |
-| **45** | Decreased cost of 10 CE<br> | Restricted status effect lowered by 2 turns |
-| **50** | Decreased cost of 12 CE<br> | Restricted status effect lowered by 3 turns |
-| **55** | Decreased cost of 13 CE | Restricted status effect lowered by 3 turns |
-| **60** | Decreased cost of 14 CE<br> | Restricted status effect lowered by 4 turns |
 
-> [!NOTE]
-> Cursed Techniques can only be lowered to ‘5’ C.E cost at most.
+| **Points Invested** | **CE Reduction**            | **Domain**                                  |
+| ------------------- | --------------------------- | ------------------------------------------- |
+| **5**               | Increased cost of 3 CE      | N/A                                         |
+| **10**              | Increased cost of 1 CE      | N/A                                         |
+| **15**              | No increase in cost         | N/A                                         |
+| **20**              | Decreased cost of 1 CE      | N/A                                         |
+| **25**              | Decreased cost of 3 CE      | N/A                                         |
+| **30**              | Decreased cost of 5 CE      | N/A                                         |
+| **35**              | Decreased cost of 7 CE<br>  | Restricted status effect lowered by 1 turn  |
+| **40**              | Decreased cost of 9 CE      | Restricted status effect lowered by 1 turn  |
+| **45**              | Decreased cost of 10 CE<br> | Restricted status effect lowered by 2 turns |
+| **50**              | Decreased cost of 12 CE<br> | Restricted status effect lowered by 3 turns |
+| **55**              | Decreased cost of 13 CE     | Restricted status effect lowered by 3 turns |
+| **60**              | Decreased cost of 14 CE<br> | Restricted status effect lowered by 4 turns |
+|                     |                             |                                             |
+
+> [!info] Cursed Energy Reduction
+> Is applicable to any skill or technique which consumes Cursed Energy, including, but not limited to: Curse Techniques, [[Cursed Energy Properties]], or certain [[Combat Mastery]] skills.
+> 
+> The lowest C.E costs can be reduced to is 5.
+> 
+> Six Eyes reduction takes priority.
 
 ## C.E Maximum [C.E.M]
 
