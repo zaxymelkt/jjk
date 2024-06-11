@@ -96,11 +96,13 @@ Depending on the levels invested into [Ranged] weaponry, the amount of projectil
 > [!NOTE]
 > Each projectile will consume an attack slot.
 
-|                                                                          |                                                                           |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| Level 1<br><br>- 2 Projectile Slots.<br>- Access to ‘Small’ Projectiles. | Level 2<br><br>- 3 Projectile Slots.<br>- Access to ‘Medium’ Projectiles. |
-| Level 3<br>- 4 Projectile Slots.<br>- Access to ‘Large’ Projectiles.     | Level 4<br>- 5 Projectile Slots.                                          |
-| Level 5<br>- 6 Projectile Slots.                                         |                                                                           |
+| Level | Projectiles   |  Size  |
+| :---: | :------------ | :----: |
+|   1   | 2 Projectiles | Small  |
+|   2   | 3 Projectiles | Medium |
+|   3   | 4 Projectiles | Large  |
+|   4   | 5 Projectiles |   -    |
+|   5   | 6 Projectiles |   -    |
 
 ## Slashing
 
@@ -148,25 +150,25 @@ Blunt focuses on any blunt tool. This could include bo-staffs, or even war-hamme
 
 The typical use of a melee-weapon such as a hammer or bo-staff.
 
-| Level | Injury                                                                                                                 | STR vs END | Proficiency | Expertise | Passive    |
-| ----- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | --------- | ---------- |
-| 1     | [[Injuries#Stable Fracture\|Level 1]]                                                                                  | +5         | One         | -         | +2 ATK STR |
-| 2     | [[Injuries#Stable Fracture\|Level 1]], [[Injuries#Partial Fracture\|Level 2]]                                          | +2, +4     | Two         | -         | +3 ATK STR |
-| 3     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]]                                          | +4, +6     | Three       | One       | +4 ATK STR |
-| 4     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +4, +6, +8 | Three       | Two       | +5 ATK STR |
-| 5     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +3, +5, +7 | Three       | Three     | +6 ATK STR |
+| Level | Injury                                                                                                             | STR vs END | Proficiency | Expertise | Passive    |
+| ----- | ------------------------------------------------------------------------------------------------------------------ | ---------- | ----------- | --------- | ---------- |
+| 1     | [[Injuries#Stable Fracture\|Level 1]]                                                                              | +5         | One         | -         | +2 ATK STR |
+| 2     | [[Injuries#Stable Fracture\|Lvl 1]], [[Injuries#Partial Fracture\|Lvl 2]]                                          | +2, +4     | Two         | -         | +3 ATK STR |
+| 3     | [[Injuries#Partial Fracture\|Lvl 2]], [[Injuries#Closed Fracture\|Lvl 3]]                                          | +4, +6     | Three       | One       | +4 ATK STR |
+| 4     | [[Injuries#Partial Fracture\|Lvl 2]], [[Injuries#Closed Fracture\|Lvl 3]], [[Injuries#Compound Fracture\|Level 4]] | +4, +6, +8 | Three       | Two       | +5 ATK STR |
+| 5     | [[Injuries#Partial Fracture\|Lvl 2]], [[Injuries#Closed Fracture\|Lvl 3]], [[Injuries#Compound Fracture\|Lvl 4]]   | +3, +5, +7 | Three       | Three     | +6 ATK STR |
 
 ### Ranged Application
 
 Other chained weapons such as the kusarigama’s fundo or a chain with a large metal ball. Although they will not gain any statistical benefits, if normal blunt weapons such as a staff or hammer is thrown, it will follow these rules.
 
-| Level | Injury                                                                                                                 | STR vs END | Proficiency | Expertise | Passive            |
-| ----- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | --------- | ------------------ |
-| 1     | [[Injuries#Stable Fracture\|Level 1]]                                                                                  | +5         | One         | -         | +1 ATK STR,+1 SPD  |
-| 2     | [[Injuries#Stable Fracture\|Level 1]], [[Injuries#Partial Fracture\|Level 2]]                                          | +2, +4     | Two         | -         | +1 ATK STR,+2 SPD  |
-| 3     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]]                                          | +4, +6     | Three       | One       | +2 ATK STR,+2 SPD  |
-| 4     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +4, +6, +8 | Three       | Two       | +3 ATK STR, +3 SPD |
-| 5     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +3, +5, +7 | Three       | Three     | +4 ATK STR, +3 SPD |
+| Level | Injury                                                                                                                 | STR vs END | Proficiency | Expertise | Passive           |
+| ----- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | --------- | ----------------- |
+| 1     | [[Injuries#Stable Fracture\|Level 1]]                                                                                  | +5         | One         | -         | +1 ATK STR,+1 SPD |
+| 2     | [[Injuries#Stable Fracture\|Level 1]], [[Injuries#Partial Fracture\|Level 2]]                                          | +2, +4     | Two         | -         | +1 ATK STR,+2 SPD |
+| 3     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]]                                          | +4, +6     | Three       | One       | +2 ATK STR,+2 SPD |
+| 4     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +4, +6, +8 | Three       | Two       | +3 ATK STR,+3 SPD |
+| 5     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +3, +5, +7 | Three       | Three     | +4 ATK STR,+3 SPD |
 
 _SPD = ATK SPD_
 
