@@ -38,7 +38,7 @@ _How will you avoid this Cursed Cataclysm?_
 - [[Domain Manifestation]]
 - [[Status Conditions]]
 - [[Injuries]]
-- [[Cursed Tools]]
+- [[content/Systems/Global/Cursed Tools]]
 - [[Combat Mastery]]
 - [[Cursed Energy Properties]]
 - [[Cursed Spirits]]

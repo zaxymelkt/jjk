@@ -177,7 +177,7 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 | **C.E Control**    | **35**         | [Dismantle] +5               |
 | **C.E Efficiency** | **30**         |                              |
 | **C.E Max**        | **150**        |                              |
-| Total              | 220            |                              |
+| Total              | 220 (+5)       |                              |
 # Skills
 
 ## Combat Mastery
@@ -202,4 +202,10 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 | **Skill**        | Invested | **Unlocked** |
 | ---------------- | -------- | ------------ |
 | Domain Expansion | 25       | Y            |
-| Simple Domain    | 5        | N            |
+| Simple Domain    | 9        | N            |
+
+# Abilities
+
+## [[Shrine]]
+
+## [[Ryomen Sukuna's Finger]]

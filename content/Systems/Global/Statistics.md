@@ -39,6 +39,14 @@ The distance you can throw an object will depend on the item’s size:
 | **55**              | 275kg           | 5.5m            | +5            |
 | **60**              | 300kg           | 6m              | +6            |
 
+
+>[!info] ATK SPD (STR)
+>When utilising Ranged : Blunt, Ranged : Slashing, or Ranged : Piercing, with a chained weapon — use STR as the base for ATK SPD rather than SPD.
+>
+>Only buffs to ATK SPD will affect this stat. ATK STR buffs are not considered.
+
+ 
+
 ## Endurance [END]
 
 Endurance determines the amount of damage an individual can sustain over time and in a given moment. An Individual’s HP is determined by multiplying their END stat by 3. While Endurance will lessen the damage taken by an attack, even attacks significantly weaker will eat at a person’s HP.
