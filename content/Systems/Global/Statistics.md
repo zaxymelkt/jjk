@@ -62,6 +62,7 @@ Damage taken can be reduced by protecting the area with cursed energy.
 At 15, 25, 35, and 45 Endurance, an OC gains an additional 5 HP.
 
 HP is a static stat, unaffected by END buffs or debuffs unless specified otherwise.
+
 | **Points Invested** | **HP** | **Daze** | **Stunned** | **Unconscious** |
 |---------------------|-------|---------|------------|------------------|
 | **5** | 15 | Beyond +5 | Beyond +10 | Beyond +15 |
@@ -142,20 +143,29 @@ Agility determines movement distance, combative speed, and general acrobatics. W
 Cursed Energy Output determines the damage and destructive capability of an individual’s Cursed Energy techniques and attacks. Cursed Energy Output will additionally determine the durability of Cursed Energy attacks and even shikigami. Additionally, Cursed Energy Output will allow an individual to imbue themselves or items with Cursed Energy to enhance them.
 
 When using Cursed Energy to protect or enhance a location, it will reduce the incoming damage by a set amount, depending on the level of Cloak used.
-| **Points Invested** | **C.E Cloak Abilities** | **Curtain Abilities** |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **5** | - | - Create a simple barrier (Curtain) with a max size of 6 x 6 x 6 meters, costing 18 CE to summon.<br>- Curtain forms at a speed equal to your CE Control and has a durability of your CE Output - 3. |
-| **10** | - | - Curtain max size: 10 x 10 x 10 meters, costing 25 CE to summon.<br>- Curtain forms at a speed equal to your CE Control and has a durability of your CE Output + 2. |
-| **15** | - Infuse one limb with CE, increasing striking force to Strength + 2 or CE Output.<br>- Reduces damage to this limb by 2.<br>- Costs 8 CE per turn. | - |ç
-| **20** | - Apply cloaks to small or medium weapons/Cursed Tools. | - Curtain max size: 15 x 15 x 15 meters, costing 30 CE to summon.<br>- Curtain forms at a speed equal to your CE Control and has a durability of your CE Output + 4. |
-| **25** | - Infuse two limbs with CE, increasing striking force to Strength + 3 or CE Output + 1.<br>- Reduces damage to these limbs by 3.<br>- Costs 11 CE per turn. | - |
-| **30** | - | - Curtain max size: 20 x 20 x 20 meters, costing 35 CE to summon.<br>- Curtain forms at a speed equal to your CE Control + 2 and has a durability of your CE Output + 6.<br>- Add a single ‘Condition’ to your barrier. |
-| **35** | - Infuse either upper or lower torso with CE, increasing striking force to Strength + 4 or CE Output + 2.<br>- Reduces damage to this area by 5.<br>- Costs 15 CE per turn.<br>- Apply cloaks to large weapons/Cursed Tools. | - |
-| **40** | - | - Curtain max size: 25 x 25 x 25 meters, costing 25 CE to summon.<br>- Curtain forms at a speed equal to your CE Control + 4 and has a durability of your CE Output + 6. |
-| **45** | - Infuse entire body with CE, increasing striking force to Strength + 5 or CE Output + 3.<br>- Reduces damage to the body by 5.<br>- Costs 19 CE per turn. | - |
-| **50** | - | - Curtain max size: 30 x 30 x 30 meters, costing 40 CE to summon.<br>- Curtain forms at a speed equal to your CE Control + 4 and has a durability of your CE Output + 8.<br>- Add an additional ‘Condition’ to your barrier. |
-| **55** | - Infuse entire body with CE, increasing striking force to Strength + 7 or CE Output + 5.<br>- Reduces damage to the body by 5.<br>- Costs 21 CE per turn. | - |
-| **60** | - | - Curtain max size: 40 x 40 x 40 meters, costing 55 CE to summon.<br>- Curtain forms at a speed equal to your CE Control + 6 and has a durability of your CE Output + 8.<br>- Add three ‘Conditions’ to your barrier. |
+
+## Curtain
+
+| **Invested** | **Curtain Size** | **Curtain Stats**           | **Extra Conditions** | Cost (C) |
+| ------------ | ---------------- | --------------------------- | -------------------- | -------- |
+| 5            | 6 x 6 x 6 m      | C.E.O **-3** \| C.E.C       | N/A                  | 18 CE    |
+| 10           | 10 x 10 x 10m    | C.E.O **+2** \| C.E.C       | N/A                  | 25 CE    |
+| 20           | 15 x 15 x 15m    | C.E.O **+4** \|C.E.C        | N/A                  | 30 CE    |
+| 30           | 20 x 20 x 20m    | C.E.O **+6** \|C.E.C **+2** | One                  | 35 CE    |
+| 40           | 25 x 25 x 25m    | C.E.O **+6** \|C.E.C **+4** | One                  | 35 CE    |
+| 50           | 30 x 30 x 30m    | C.E.O **+8** \|C.E.C **+4** | Two                  | 40 CE    |
+| 60           | 40 x 40 x 40m    | C.E.O **+8** \|C.E.C **+6** | Three                | 55 CE    |
+
+## Cursed Energy Infusion
+| **Invested** | **Infused ATK STR**      | **Infusion Control**                          | **Reduction** | **Cost/Turn** |
+| ------------ | ------------------------ | --------------------------------------------- | ------------- | ------------- |
+| 15           | C.E.O or STR**+2**       | One Limb                                      | -3 DMG        | 8 CE          |
+| 20           | C.E.O or STR**+2**       | Small or Medium [[Cursed Tools]]              | -3 DMG        | 8 CE          |
+| 25           | C.E.O**+1** or STR**+3** | Two Limbs \| Small or Medium [[Cursed Tools]] | -5 DMG        | 11 CE         |
+| 35           | C.E.O**+2** or STR**+4** | Upper/Lower Torso & Large [[Cursed Tools]]    | -5 DMG        | 15 CE         |
+| 45           | C.E.O**+3** or STR**+5** | Entire Body & Large [[Cursed Tools]]          | -5 DMG        | 19 CE         |
+| 55           | C.E.O**+5** or STR**+7** | Entire Body & Large [[Cursed Tools]]          | -5 DMG        | 21 CE         |
+
 
 ## C.E Control [C.E.C]
 
