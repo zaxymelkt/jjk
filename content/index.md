@@ -33,6 +33,7 @@ _How will you avoid this Cursed Cataclysm?_
 
 **Grade Three**
 - [[Abe Toma]]
+- [[Zen'in Rin]]
 
 **Grade Four**
 - [[Nakamura Shinji]]
