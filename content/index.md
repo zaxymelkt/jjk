@@ -34,16 +34,20 @@ _How will you avoid this Cursed Cataclysm?_
 
 ## Global
 
+**Combat**
 - [[Statistics]]
-- [[Domain Manifestation]]
 - [[Status Conditions]]
 - [[Injuries]]
-- [[Cursed Tools]]
 - [[Combat Mastery]]
+**Jujutsu**
+- [[Domain Manifestation]]
 - [[Cursed Energy Properties]]
+**Equipment**
+- [[Cursed Tools]]
+- [[Cursed Objects]]
+**Groups**
 - [[Cursed Spirits]]
 - [[Sorcerers]]
-
 ## Lore
 
 - [[Jujutsu Historical & Prominent Families]]
@@ -64,6 +68,9 @@ _How will you avoid this Cursed Cataclysm?_
 - [[Malignant Curse Resurrection]]
 
 # Domain Expansion
+**Complete Domain**
 - [[Domain Expansion - Kāmadhātu Shrine]]
-- [[Domain Expansion - Time Cell Moon Palace]]
 - [[Domain Expansion - Unlimited Void]]
+**Incomplete Domain**
+- [[Domain Expansion - Time Cell Moon Palace]]
+- [[Domain Expansion - Hyōketsu no Shinkai]]
