@@ -24,14 +24,14 @@ There is something. .  peculiar about you, even for those who focus on developi
 - You gain an increase of 5 Movement Distance.
 - All Health bonuses you receive are doubled. ( 5 → 10 ).
 - Your Strength and Endurance passively increase by +1.
-- Additionally you gain access to a custom Grade 3 [[content/Systems/Global/Cursed Tools|Cursed Tool]].
+- Additionally you gain access to a custom Grade 3 [[Cursed Tools|Cursed Tool]].
 # 30 Strength | Reaction
 Your Cursed Energy levels continue to dwindle, the complete inverse of your physical empowerment. You can run faster, hit harder, and are completely unaffected by the execution of a Domain Expansion. Armed with a sizable armament of Cursed Tools, you’ve become a fledgling demon for both Cursed Spirits and Sorcerers alike, the enemy of all those who hold Cursed Energy sacred.
 
 - You automatically gain ‘Insignificant’ levels of [[Statistics#C.E Maximum [C.E.M]|Cursed Energy]].
 - You gain an increase of 8 Movement Distance.
 - You regain 8 points of Health every 2 turns without damage.
-- Additionally you gain access to a custom Grade 2 [[content/Systems/Global/Cursed Tools|Cursed Tool]].
+- Additionally you gain access to a custom Grade 2 [[Cursed Tools|Cursed Tool]].
 - You gain 5 additional levels to invest into [[Combat Mastery]].
 - You are no longer affected by the ‘[[Domain Manifestation#Sure-Hit Attack:|Sure-Hit]]’ condition of a [[Domain Manifestation#Domain Expansion|Domain Expansion]].
 # 40 Strength | Reaction
@@ -40,7 +40,7 @@ Reaching a momentary plateau in your abilities, you become incredibly swift, cap
 - You gain an increase of 10 Movement Distance.
 - You regain 12 points of Health every 2 turns without damage.
 - Your Intelligence and Agility passively increase by +1.
-- Additionally you gain access to a custom Grade 1 [[content/Systems/Global/Cursed Tools|Cursed Tool]].
+- Additionally you gain access to a custom Grade 1 [[Cursed Tools|Cursed Tool]].
 # 50 Strength | Reaction
 You have reached the zenith of true strength, a demonic fighter with no equal. You can notice the faintest change of atmospheric pressure, utterly intune with the movements of the world around you. Not only this, your physical capabilities have yet again ascended to unheard of levels. Capable of even defeating Special Grade Curses in bouts of physical contest, there are few sorcerers alive who could attempt to match you, requiring physical enforcement through Cursed Energy to even do so. At this level you claim your prize, a Special Grade Cursed Tool, a testament to your skill in wielding it.
 
@@ -49,7 +49,7 @@ You have reached the zenith of true strength, a demonic fighter with no equal. Y
 - You regain 15 points of Health every 2 turns without damage.
 - You gain an increase of 12 Movement Distance.
 - You gain 5 additional levels to invest into Combat Mastery.
-- Additionally you gain access to a custom Special Grade [[content/Systems/Global/Cursed Tools|Cursed Tool]].
+- Additionally you gain access to a custom Special Grade [[Cursed Tools|Cursed Tool]].
 # Extra Sensory Perception [Sixth Sense]
 Sixth Sense determines the potency of the additional sense of ‘Atmospheric Pressure’ engraved into one’s body. The Sixth Sense can be seen as a slow ‘awakening’ process, which is done over a lifetime of training one’s body. At the beginning, they require specialised tools to see Cursed Spirits, but as their Sixth Sense develops, everything becomes visible.
 

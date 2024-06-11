@@ -7,7 +7,7 @@
 Cursed Objects are items with a dark history that contain cursed energy. They generally consist of the remnants of ancient sorcerers that can be incarnated into a new body if the cursed object is consumed by a compatible vessel.
 
 # Overview
-With the exception of [[cursed tools]] and cursed corpses, items that contain cursed energy are referred to as cursed objects. Cursed objects are ranked in the same way as cursed tools, based on the strength of the cursed energy they contain. Particularly dangerous cursed objects, such as [[Ryomen Sukuna's Finger]], are ranked special grade. Following the logic of controlling poison with poison, sealed special grade cursed objects can be used as amulets to ward off cursed spirits.
+With the exception of [[Cursed Tools]] and cursed corpses, items that contain cursed energy are referred to as cursed objects. Cursed objects are ranked in the same way as cursed tools, based on the strength of the cursed energy they contain. Particularly dangerous cursed objects, such as [[Ryomen Sukuna's Finger]], are ranked special grade. Following the logic of controlling poison with poison, sealed special grade cursed objects can be used as amulets to ward off cursed spirits.
 
 Special grade cursed objects cannot be destroyed and their continued existence is guaranteed under the binding vow used to create them. This binding vow dictates that individuals who become cursed objects cease to live and cannot harm others.
 
