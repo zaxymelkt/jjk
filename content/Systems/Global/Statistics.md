@@ -159,12 +159,12 @@ When using Cursed Energy to protect or enhance a location, it will reduce the in
 ## Cursed Energy Infusion
 | **Invested** | **Infused ATK STR** | **Infusion Limit**                      | **Reduction** | **Cost/Turn** |
 | ------------ | ------------------- | --------------------------------------- | ------------- | ------------- |
-| 15           | C.E.O or STR +2     | One Limb                                | -3 DMG        | 8 CE          |
-| 20           | C.E.O or STR +2     | Medium [[Cursed Tools]]                 | -3 DMG        | 8 CE          |
-| 25           | C.E.O +1 or STR +3  | Two Limbs \| Medium [[Cursed Tools]]    | -5 DMG        | 11 CE         |
-| 35           | C.E.O +2 or STR +4  | (T or B) Torso & Large [[Cursed Tools]] | -5 DMG        | 15 CE         |
-| 45           | C.E.O +3 or STR +5  | Entire Body & Large [[Cursed Tools]]    | -5 DMG        | 19 CE         |
-| 55           | C.E.O +5 or STR +7  | Entire Body & Large [[Cursed Tools]]    | -5 DMG        | 21 CE         |
+| 15           | C.E.O \| STR +2     | One Limb                                | -3 DMG        | 8 CE          |
+| 20           | C.E.O \| STR +2     | Medium [[Cursed Tools]]                 | -3 DMG        | 8 CE          |
+| 25           | C.E.O +1 \| STR +3  | Two Limbs \| Medium [[Cursed Tools]]    | -5 DMG        | 11 CE         |
+| 35           | C.E.O +2 \| STR +4  | (T or B) Torso & Large [[Cursed Tools]] | -5 DMG        | 15 CE         |
+| 45           | C.E.O +3 \| STR +5  | Entire Body & Large [[Cursed Tools]]    | -5 DMG        | 19 CE         |
+| 55           | C.E.O +5 \| STR +7  | Entire Body & Large [[Cursed Tools]]    | -5 DMG        | 21 CE         |
 
 
 ## C.E Control [C.E.C]
