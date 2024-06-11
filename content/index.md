@@ -15,29 +15,37 @@ _How will you avoid this Cursed Cataclysm?_
 # Players
 
 ## Jujutsu Students
+
 **Special Grade**
+
 - [[Inoe Riku]]
 
 **Grade One**
 
 **Semi-Grade One**
+
 - [[Fujiwara Emiko|Kanoe Kasumu]]
 - [[Inumaki Kousei]]
 - [[Zen'in Isao]]
 
 **Grade Two**
+
 - [[Fujiwara Hoshikakushi|Kujou Reien]]
 - [[Abe Suiren]]
-- [[Gojo Niko|Gojo Niko (†)]] 
+- [[Gojo Niko|Gojo Niko (†)]]
 - [[Tsuhara Gyomei]]
 
 **Grade Three**
+
 - [[Abe Toma]]
 - [[Zen'in Rin]]
 
 **Grade Four**
+
 - [[Nakamura Shinji]]
+
 ## Curse Users
+
 - [[Gojo Tatsuki]]
 - [[Fujiwara Hoshikakushi]]
 
@@ -46,29 +54,36 @@ _How will you avoid this Cursed Cataclysm?_
 ## Global
 
 **Combat**
+
 - [[Statistics]]
 - [[Status Conditions]]
 - [[Injuries]]
 - [[Combat Mastery]]
 
 **Jujutsu**
+
 - [[Domain Manifestation]]
 - [[Cursed Energy Properties]]
 
 **Equipment**
+
 - [[Cursed Tools]]
 - [[Cursed Objects]]
 
 **Groups**
+
 - [[Cursed Spirits]]
 - [[Sorcerers]]
+
 ## Lore
 
 - [[Jujutsu Clans]]
 - [[Jujutsu History]]
 
 ## Cursed Techniques
+
 **Innate Techniques**
+
 - [[Shrine]]
 - [[Curse Manipulation]]
 - [[Ice Formation]]
@@ -76,19 +91,25 @@ _How will you avoid this Cursed Cataclysm?_
 - [[Malignant Curse Resurrection]]
 
 **Inherited Techniques**
+
 - [[Cursed Speech]]
 - [[Ten Shadows]]
 - [[Limitless]]
-	- [[Six Eyes]]
+  - [[Six Eyes]]
 - [[Projection Sorcery]]
 
 **Heavenly Restriction**
+
 - [[Physically Gifted]]
+
 # Domain Expansion
+
 **Complete Domain**
+
 - [[Domain Expansion - Kāmadhātu Shrine]]
 - [[Domain Expansion - Unlimited Void]]
 
 **Incomplete Domain**
+
 - [[Domain Expansion - Time Cell Moon Palace]]
 - [[Domain Expansion - Hyōketsu no Shinkai]]

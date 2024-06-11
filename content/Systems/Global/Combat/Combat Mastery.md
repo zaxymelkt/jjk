@@ -113,24 +113,24 @@ Slashing focuses not only on swords but also any bladed weapon that can cause a 
 The typical use of a melee-weapon. Some tools may be injury limited beyond what levels allow.
 
 | Level | Injury (SPD>+5)                           | SPD vs SPD (+5)                           | Proficiency | Expertise | Passive               |
-| ----- | ----------------------------------------- | ----------------------------------------- | ----------- | --------- | --------------------- |
-| 1     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                       | One         | -         | +1 Grip \| +1 ATK STR |
-| 2     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                       | Two         | -         | +2 Grip \| +1 ATK STR |
-| 3     | [[Injuries#Medium Lacerations\|Level 2]]  | N/A                                       | Three       | One       | +2 Grip \| +2 ATK STR |
-| 4     | [[Injuries#Medium Lacerations\|Level 2]]  | [[Injuries#Deep Lacerations\|Level 3]]    | Three       | Two       | +3 Grip \| +2 ATK STR |
-| 5     | [[Injuries#Deep Lacerations\|Level 3]]    | [[Injuries#Partial Amputations\|Level 4]] | Three       | Three     | +3 Grip \| +3 ATK STR |
+| ----- | :---------------------------------------- | ----------------------------------------- | :---------: | :-------: | --------------------- |
+| 1     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                       |     One     |     -     | +1 Grip \| +1 ATK STR |
+| 2     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                       |     Two     |     -     | +2 Grip \| +1 ATK STR |
+| 3     | [[Injuries#Medium Lacerations\|Level 2]]  | N/A                                       |    Three    |    One    | +2 Grip \| +2 ATK STR |
+| 4     | [[Injuries#Medium Lacerations\|Level 2]]  | [[Injuries#Deep Lacerations\|Level 3]]    |    Three    |    Two    | +3 Grip \| +2 ATK STR |
+| 5     | [[Injuries#Deep Lacerations\|Level 3]]    | [[Injuries#Partial Amputations\|Level 4]] |    Three    |   Three   | +3 Grip \| +3 ATK STR |
 
 ### Ranged Application
 
 Weapons attached to chains such as Kusarigama kusari/sickle fall under this application.
 
 | Level | Injury                                    | SPD vs SPD (+5)                          | Proficiency | Expertise | Passive             |
-| ----- | ----------------------------------------- | ---------------------------------------- | ----------- | --------- | ------------------- |
-| 1     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                      | One         | -         | +1 SPD,-1 Block SPD |
-| 2     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                      | Two         | -         | +2 SPD,-1 Block SPD |
-| 3     | [[Injuries#Shallow Lacerations\|Level 1]] | [[Injuries#Medium Lacerations\|Level 2]] | Three       | One       | +2 SPD,-2 Block SPD |
-| 4     | [[Injuries#Medium Lacerations\|Level 2]]  | [[Injuries#Medium Lacerations\|Level 2]] | Three       | Two       | +3 SPD,-2 Block SPD |
-| 5     | [[Injuries#Medium Lacerations\|Level 2]]  | [[Injuries#Deep Lacerations\|Level 3]]   | Three       | Three     | +3 SPD,-3 Block SPD |
+| ----- | ----------------------------------------- | ---------------------------------------- | :---------: | :-------: | ------------------- |
+| 1     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                      |     One     |     -     | +1 SPD,-1 Block SPD |
+| 2     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                      |     Two     |     -     | +2 SPD,-1 Block SPD |
+| 3     | [[Injuries#Shallow Lacerations\|Level 1]] | [[Injuries#Medium Lacerations\|Level 2]] |    Three    |    One    | +2 SPD,-2 Block SPD |
+| 4     | [[Injuries#Medium Lacerations\|Level 2]]  | [[Injuries#Medium Lacerations\|Level 2]] |    Three    |    Two    | +3 SPD,-2 Block SPD |
+| 5     | [[Injuries#Medium Lacerations\|Level 2]]  | [[Injuries#Deep Lacerations\|Level 3]]   |    Three    |   Three   | +3 SPD,-3 Block SPD |
 
 _SPD = ATK SPD_
 
