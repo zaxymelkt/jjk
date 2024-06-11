@@ -8,7 +8,7 @@ Abe Suiren hails from both the Zenin and Abe clan. They were born with the innat
 # Early Childhood
 Born in [[Osaka]], Japan, a large city with a population of around 2.691 million. With a rough population density of 12,214 people every square kilometer, Abe Suiren would have found herself bumping into other sorcerers like herself daily.
 
-Born into both the [[Jujutsu Historical & Prominent Families#Zen'in|Zenin]] and [[Jujutsu Historical & Prominent Families#Abe|Abe Clan]], Suiren is consider to be one of the sorcerer with the biggest potential in her families. After being born, her innate technique would be called "the [[Ten Shadows]]," a powerful technique to her knowledge from her Zenin bloodline. 
+Born into both the [[Jujutsu Clans#Zen'in|Zenin]] and [[Jujutsu Clans#Abe|Abe Clan]], Suiren is consider to be one of the sorcerer with the biggest potential in her families. After being born, her innate technique would be called "the [[Ten Shadows]]," a powerful technique to her knowledge from her Zenin bloodline. 
 
 It is said the Abe Clan has birthed the most potent members that even influence the jujutsu society of modern times. This includes her mother’s clan called the Zenin Clan.
 

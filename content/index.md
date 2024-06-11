@@ -14,21 +14,31 @@ _How will you avoid this Cursed Cataclysm?_
 
 # Players
 
-**Calamity Unit**
-- [[Fujiwara Hoshikakushi]]
-- [[Fujiwara Emiko]]
-- [[Abe Toma]]
-- [[Nakamura Shinji]]
-  
-**Suicide Squad**
-- [[Abe Suiren]]
+## Jujutsu Students
+**Special Grade**
 - [[Inoe Riku]]
-- [[Gojo Niko]]
-  
-**Great Families Squad**
-- [[Zen'in Isao]]
-- [[Gojo Tatsuki]]
+
+**Grade One**
+
+**Semi-Grade One**
+- [[Fujiwara Emiko|Kanoe Kasumu]]
 - [[Inumaki Kousei]]
+- [[Zen'in Isao]]
+
+**Grade Two**
+- [[Fujiwara Hoshikakushi|Kujou Reien]]
+- [[Abe Suiren]]
+- [[Gojo Niko|Gojo Niko (†)]] 
+- [[Tsuhara Gyomei]]
+
+**Grade Three**
+- [[Abe Toma]]
+
+**Grade Four**
+- [[Nakamura Shinji]]
+## Curse Users
+- [[Gojo Tatsuki]]
+- [[Fujiwara Hoshikakushi]]
 
 # Systems
 
@@ -39,38 +49,45 @@ _How will you avoid this Cursed Cataclysm?_
 - [[Status Conditions]]
 - [[Injuries]]
 - [[Combat Mastery]]
+
 **Jujutsu**
 - [[Domain Manifestation]]
 - [[Cursed Energy Properties]]
+
 **Equipment**
 - [[Cursed Tools]]
 - [[Cursed Objects]]
+
 **Groups**
 - [[Cursed Spirits]]
 - [[Sorcerers]]
 ## Lore
 
-- [[Jujutsu Historical & Prominent Families]]
+- [[Jujutsu Clans]]
 - [[Jujutsu History]]
 
 ## Cursed Techniques
-
+**Innate Techniques**
 - [[Shrine]]
-- [[Cursed Speech]]
-- [[Physically Gifted]]
-- [[Ten Shadows]]
-- [[Mimicry]]
-- [[Limitless]]
-	- [[Six Eyes]]
 - [[Curse Manipulation]]
 - [[Ice Formation]]
-- [[Projection Sorcery]]
+- [[Mimicry]]
 - [[Malignant Curse Resurrection]]
 
+**Inherited Techniques**
+- [[Cursed Speech]]
+- [[Ten Shadows]]
+- [[Limitless]]
+	- [[Six Eyes]]
+- [[Projection Sorcery]]
+
+**Heavenly Restriction**
+- [[Physically Gifted]]
 # Domain Expansion
 **Complete Domain**
 - [[Domain Expansion - Kāmadhātu Shrine]]
 - [[Domain Expansion - Unlimited Void]]
+
 **Incomplete Domain**
 - [[Domain Expansion - Time Cell Moon Palace]]
 - [[Domain Expansion - Hyōketsu no Shinkai]]

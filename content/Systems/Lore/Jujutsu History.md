@@ -17,7 +17,7 @@ The Heian Era is depicted as the "Golden Age of Sorcery," the most important tim
 The King of Curses was the dominating factor during the Heian Era, defeating the most powerful sorcerers at the time, including the factions of the Fujiwara and Abe clans. After their defeat, the King spread his cursed energy into 20 cursed objects- his fingers-to preserve his existence beyond the Golden Age.
 
 --- 
-# Sengoku Era [1467-1618]
+# Sengoku Era 1467-1618
 ---
 
 After over two-hundred years of power struggles tied into sorcery and cursed spirits, the entity known as Tengen would merge with a Star Plasma Vessel for the first time, creating a barrier that would effectively restrict both the existence of cursed energy and cursed spirits. This process would continue to be repeated once every few centuries or so to maintain the strength of the barriers and prevent unspeakable calamity.

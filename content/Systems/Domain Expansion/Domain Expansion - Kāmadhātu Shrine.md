@@ -5,7 +5,7 @@ tags:
 domain: Complete
 ---
 # Domain Expansion : Kāmadhātu Shrine
-_The "Shrine of Worldly Desire" appears as a main sanctuary adorned with amulets scattered throughout its interior, covering the floor, walls, and ceiling. This shrine features a solitary entryway, a stairway ascending 25 meters to its peak. It is encircled by the skeletal remains of [[Shrine]]'s victims from Hoshikakushi's tenure as an assassin for the [[Jujutsu Historical & Prominent Families#Fujiwara|Fujiwara clan]], displayed in a state of crucifixion and incineration. The shrine's decor includes the liquefied forms of the Fujiwara Clan members, with a pristine image of Fujiwara Emiko prominently placed at the apex. The entire domain is treated as Hoshikakushi's Palm._
+_The "Shrine of Worldly Desire" appears as a main sanctuary adorned with amulets scattered throughout its interior, covering the floor, walls, and ceiling. This shrine features a solitary entryway, a stairway ascending 25 meters to its peak. It is encircled by the skeletal remains of [[Shrine]]'s victims from Hoshikakushi's tenure as an assassin for the [[Jujutsu Clans#Fujiwara|Fujiwara clan]], displayed in a state of crucifixion and incineration. The shrine's decor includes the liquefied forms of the Fujiwara Clan members, with a pristine image of Fujiwara Emiko prominently placed at the apex. The entire domain is treated as Hoshikakushi's Palm._
 
 ---
 

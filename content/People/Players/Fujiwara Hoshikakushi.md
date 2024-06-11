@@ -2,7 +2,7 @@
 
 Fujiwara Hoshikakushi was born in [[Semboku City|Semboku]], Japan, a small city—with a population of around 26,000. With a rough population density of 29.8 people every square kilometre, Fujiwara Hoshikakushi would have to travel over 200 kilometres to meet another sorcerer like himself. Had fate not decided otherwise, Hoshikakushi would have been alone.
 
-Born to the [[Jujutsu Historical & Prominent Families#Fujiwara|Fujiwara Clan]], Hoshikakushi had twelve siblings, born in the middle of all of them. Until Hoshikakushi’s birth and later [[Fujiwara Emiko]]’s, the family had yet to birth a sorcerer with an innate technique. Hoshikakushi’s technique is [[Shrine]], once held by the same man who massacred his clan in the Heian Era.
+Born to the [[Jujutsu Clans#Fujiwara|Fujiwara Clan]], Hoshikakushi had twelve siblings, born in the middle of all of them. Until Hoshikakushi’s birth and later [[Fujiwara Emiko]]’s, the family had yet to birth a sorcerer with an innate technique. Hoshikakushi’s technique is [[Shrine]], once held by the same man who massacred his clan in the Heian Era.
 
 In the sorcerer world, rumours that the Fujiwara Clan hasn’t birthed an innate technique for three generations have become common.
 

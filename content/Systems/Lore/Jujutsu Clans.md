@@ -1,8 +1,7 @@
 ---
- title: "Jujutsu Historical & Prominent Families"
- draft: false
- tags:
-    -
+title: Jujutsu Clans
+draft: false
+tags:
 ---
 Since the beginning of Jujutsu Sorcery, clans that each have their own unique cursed abilities and techniques have existed and together, have formed what is known as Jujutsu society. Among Jujutsu society, the Three Great Families are the Kamo clan, the Gojo clan, and the Zenin Clan. These clans all have conservative values deeply instilled in them. While these values tend to clash with the values of the new generation of sorcerers, the Three Great Families are in charge of all of the lower branches (Jujutsu high schools, sorcerers, non-sorcerers, anyone involved with Jujutsu), as they pass down the laws and rules that Jujutsu society has to abide to. They are also in charge of promoting sorcerers to higher grades.
 
