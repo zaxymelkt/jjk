@@ -110,26 +110,26 @@ Slashing focuses not only on swords but also any bladed weapon that can cause a 
 
 The typical use of a melee-weapon. Some tools may be injury limited beyond what levels allow.
 
-| Level | Injury (SPD>+5)     | SPD vs SPD (+5)     | Proficiency | Expertise | Passive               |
-| ----- | ------------------- | ------------------- | ----------- | --------- | --------------------- |
-| 1     | Shallow Lacerations | Shallow Lacerations | One         | -         | +1 Grip \| +1 ATK STR |
-| 2     | Shallow Lacerations | Shallow Lacerations | Two         | -         | +2 Grip \| +1 ATK STR |
-| 3     | Medium Lacerations  | Medium Lacerations  | Three       | One       | +2 Grip \| +2 ATK STR |
-| 4     | Medium Lacerations  | Deep Lacerations    | Three       | Two       | +3 Grip \| +2 ATK STR |
-| 5     | Deep Lacerations    | Partial Amputations | Three       | Three     | +3 Grip \| +3 ATK STR |
-
+| Level | Injury (SPD>+5)                           | SPD vs SPD (+5)                           | Proficiency | Expertise | Passive               |
+| ----- | ----------------------------------------- | ----------------------------------------- | ----------- | --------- | --------------------- |
+| 1     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                       | One         | -         | +1 Grip \| +1 ATK STR |
+| 2     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                       | Two         | -         | +2 Grip \| +1 ATK STR |
+| 3     | [[Injuries#Medium Lacerations\|Level 2]]  | N/A                                       | Three       | One       | +2 Grip \| +2 ATK STR |
+| 4     | [[Injuries#Medium Lacerations\|Level 2]]  | [[Injuries#Deep Lacerations\|Level 3]]    | Three       | Two       | +3 Grip \| +2 ATK STR |
+| 5     | [[Injuries#Deep Lacerations\|Level 3]]    | [[Injuries#Partial Amputations\|Level 4]] | Three       | Three     | +3 Grip \| +3 ATK STR |
 
 ### Ranged Application
 
 Weapons attached to chains such as Kusarigama kusari/sickle fall under this application.
 
-| Level | Injury              | SPD vs SPD (+5)     | Proficiency | Expertise | Passive             |
-| ----- | ------------------- | ------------------- | ----------- | --------- | ------------------- |
-| 1     | Shallow Lacerations | Shallow Lacerations | One         | -         |  +1 SPD,-1 Block SPD 
-| 2     | Shallow Lacerations | Shallow Lacerations | Two         | -         |  +2 SPD,-1 Block SPD 
-| 3     | Shallow Lacerations | Medium Lacerations  | Three       | One       |  +2 SPD,-2 Block SPD 
-| 4     | Medium Lacerations  | Medium Lacerations  | Three       | Two       |  +3 SPD,-2 Block SPD 
-| 5     | Medium Lacerations  | Deep Lacerations    | Three       | Three     |  +3 SPD,-3 Block SPD 
+| Level | Injury                                    | SPD vs SPD (+5)                          | Proficiency | Expertise | Passive             |
+| ----- | ----------------------------------------- | ---------------------------------------- | ----------- | --------- | ------------------- |
+| 1     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                      | One         | -         | +1 SPD,-1 Block SPD |
+| 2     | [[Injuries#Shallow Lacerations\|Level 1]] | N/A                                      | Two         | -         | +2 SPD,-1 Block SPD |
+| 3     | [[Injuries#Shallow Lacerations\|Level 1]] | [[Injuries#Medium Lacerations\|Level 2]] | Three       | One       | +2 SPD,-2 Block SPD |
+| 4     | [[Injuries#Medium Lacerations\|Level 2]]  | [[Injuries#Medium Lacerations\|Level 2]] | Three       | Two       | +3 SPD,-2 Block SPD |
+| 5     | [[Injuries#Medium Lacerations\|Level 2]]  | [[Injuries#Deep Lacerations\|Level 3]]   | Three       | Three     | +3 SPD,-3 Block SPD |
+
 _SPD = ATK SPD_
 
 ## Blunt
@@ -148,26 +148,26 @@ Blunt focuses on any blunt tool. This could include bo-staffs, or even war-hamme
 
 The typical use of a melee-weapon such as a hammer or bo-staff.
 
-| Level | Injury                                                                                                                 | STR vs END Req | Proficiency | Expertise | Passive    |
-| ----- | ---------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | --------- | ---------- |
-| 1     | [[Injuries#Stable Fracture\|Level 1]]                                                                                  | +5             | One         | -         | +2 ATK STR |
-| 2     | [[Injuries#Stable Fracture\|Level 1]], [[Injuries#Partial Fracture\|Level 2]]                                          | +2, +4         | Two         | -         | +3 ATK STR |
-| 3     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]]                                          | +4, +6         | Three       | One       | +4 ATK STR |
-| 4     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +4, +6, +8     | Three       | Two       | +5 ATK STR |
-| 5     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +3, +5, +7     | Three       | Three     | +6 ATK STR |
-
+| Level | Injury                                                                                                                 | STR vs END | Proficiency | Expertise | Passive    |
+| ----- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | --------- | ---------- |
+| 1     | [[Injuries#Stable Fracture\|Level 1]]                                                                                  | +5         | One         | -         | +2 ATK STR |
+| 2     | [[Injuries#Stable Fracture\|Level 1]], [[Injuries#Partial Fracture\|Level 2]]                                          | +2, +4     | Two         | -         | +3 ATK STR |
+| 3     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]]                                          | +4, +6     | Three       | One       | +4 ATK STR |
+| 4     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +4, +6, +8 | Three       | Two       | +5 ATK STR |
+| 5     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +3, +5, +7 | Three       | Three     | +6 ATK STR |
 
 ### Ranged Application
 
 Other chained weapons such as the kusarigama’s fundo or a chain with a large metal ball. Although they will not gain any statistical benefits, if normal blunt weapons such as a staff or hammer is thrown, it will follow these rules.
 
-| Level | Injury                                                                                                                 | STR vs END Req | Proficiency | Expertise | Passive            |
-| ----- | ---------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- | --------- | ------------------ |
-| 1     | [[Injuries#Stable Fracture\|Level 1]]                                                                                  | +5             | One         | -         | +1 ATK STR,+1 SPD  |
-| 2     | [[Injuries#Stable Fracture\|Level 1]], [[Injuries#Partial Fracture\|Level 2]]                                          | +2, +4         | Two         | -         | +1 ATK STR,+2 SPD  |
-| 3     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]]                                          | +4, +6         | Three       | One       | +2 ATK STR,+2 SPD  |
-| 4     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +4, +6, +8     | Three       | Two       | +3 ATK STR, +3 SPD |
-| 5     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +3, +5, +7     | Three       | Three     | +4 ATK STR, +3 SPD |
+| Level | Injury                                                                                                                 | STR vs END | Proficiency | Expertise | Passive            |
+| ----- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | --------- | ------------------ |
+| 1     | [[Injuries#Stable Fracture\|Level 1]]                                                                                  | +5         | One         | -         | +1 ATK STR,+1 SPD  |
+| 2     | [[Injuries#Stable Fracture\|Level 1]], [[Injuries#Partial Fracture\|Level 2]]                                          | +2, +4     | Two         | -         | +1 ATK STR,+2 SPD  |
+| 3     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]]                                          | +4, +6     | Three       | One       | +2 ATK STR,+2 SPD  |
+| 4     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +4, +6, +8 | Three       | Two       | +3 ATK STR, +3 SPD |
+| 5     | [[Injuries#Partial Fracture\|Level 2]], [[Injuries#Closed Fracture\|Level 3]], [[Injuries#Compound Fracture\|Level 4]] | +3, +5, +7 | Three       | Three     | +4 ATK STR, +3 SPD |
+
 _SPD = ATK SPD_
 
 ## Piercing
@@ -178,25 +178,25 @@ Piercing focuses on weapons which inflict ‘piercing’, such as shuriken, kuna
 
 While not many tools or weapons specialise in piercing, however, stabbing attacks will fall under these rules. Mainly Rapiers, Spears, and Needle-Blades will prioritise this skill.
 
-| Level | Injury Min.       | STR vs END (+5)    | Proficiency | Expertise | Passive                 |
-| ----- | ----------------- | ------------------ | ----------- | --------- | ----------------------- |
-| 1     | Shallow Punctures | Shallow Punctures  | One         | -         | +1 Grip \| +1 Block STR |
-| 2     | Shallow Punctures | Shallow Punctures  | Two         | -         | +2 Grip \| +1 Block STR |
-| 3     | Medium Punctures  | Medium Lacerations | Three       | One       | +2 Grip \| +2 Block STR |
-| 4     | Medium Punctures  | Deep Punctures     | Three       | Two       | +3 Grip \| +2 Block STR |
-| 5     | Deep Lacerations  | Deep Punctures     | Three       | Three     | +3 Grip \| +3 Block STR |
+| Level | Injury Min.                            | STR vs END (+5)                         | Proficiency | Expertise | Passive                 |
+| ----- | -------------------------------------- | --------------------------------------- | ----------- | --------- | ----------------------- |
+| 1     | [[Injuries#Shallow Puncture\|Level 1]] | N/A                                     | One         | -         | +1 Grip \| +1 Block STR |
+| 2     | [[Injuries#Shallow Puncture\|Level 1]] | N/A                                     | Two         | -         | +2 Grip \| +1 Block STR |
+| 3     | [[Injuries#Medium Puncture\|Level 2]]  | N/A                                     | Three       | One       | +2 Grip \| +2 Block STR |
+| 4     | [[Injuries#Medium Puncture\|Level 2]]  | [[Injuries#Deep Puncture\|Level 3]]     | Three       | Two       | +3 Grip \| +2 Block STR |
+| 5     | [[Injuries#Deep Puncture\|Level 3]]    | [[Injuries#Complete Puncture\|Level 4]] | Three       | Three     | +3 Grip \| +3 Block STR |
 
 ### Ranged Application
 
 Thrown or launched items such as arrows, kunai, nails or even spears and swords. With rare exception, Piercing Ranged weapons will not be [chained].
 
-| Level | Injury Min.       | STR vs END (+5)    | Proficiency | Expertise |
-| ----- | ----------------- | ------------------ | ----------- | --------- |
-| 1     | Shallow Punctures | Shallow Punctures  | One         | -         |
-| 2     | Shallow Punctures | Shallow Punctures  | Two         | -         |
-| 3     | Shallow Punctures | Medium Lacerations | Three       | One       |
-| 4     | Medium Punctures  | Deep Punctures     | Three       | Two       |
-| 5     | Deep Lacerations  | Deep Punctures     | Three       | Three     |
+| Level | Injury Min.                            | STR vs END (+5)                        | Proficiency | Expertise |
+| ----- | -------------------------------------- | -------------------------------------- | ----------- | --------- |
+| 1     | [[Injuries#Shallow Puncture\|Level 1]] | [[Injuries#Shallow Puncture\|Level 1]] | One         | -         |
+| 2     | [[Injuries#Shallow Puncture\|Level 1]] | [[Injuries#Shallow Puncture\|Level 1]] | Two         | -         |
+| 3     | [[Injuries#Shallow Puncture\|Level 1]] | [[Injuries#Medium Puncture\|Level 2]]  | Three       | One       |
+| 4     | [[Injuries#Medium Puncture\|Level 2]]  | [[Injuries#Deep Puncture\|Level 3]]    | Three       | Two       |
+| 5     | [[Injuries#Deep Puncture\|Level 3]]    | [[Injuries#Deep Puncture\|Level 3]]    | Three       | Three     |
 
 # Definitions
 
