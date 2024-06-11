@@ -141,10 +141,10 @@ Blunt focuses on any blunt tool. This could include bo-staffs, or even war-hamme
 > [!NOTE]
 > Rather than increasing injury levels, [Expertise] will reduce the STR requirement by:
 >
-> - [ 4 ] Stable Fractures
-> - [ 3 ] Partial Fractures
-> - [ 2 ] Closed Fractures
-> - [ 1 ] Compound Fractures
+> - [ 4 ] Stable Fractures : Lv1
+> - [ 3 ] Partial Fractures : Lv2
+> - [ 2 ] Closed Fractures : Lv3
+> - [ 1 ] Compound Fractures : Lv4
 
 ### Melee Application
 
