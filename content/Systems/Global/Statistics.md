@@ -146,12 +146,12 @@ When using Cursed Energy to protect or enhance a location, it will reduce the in
 
 ## Curtain
 
-| **Invested** | **Curtain Size** | **Curtain Stats**           | **Extra Conditions** | Cost (C) |
-| ------------ | ---------------- | --------------------------- | -------------------- | -------- |
-| 5            | 6 x 6 x 6 m      | C.E.O -3 \| C.E.C           | N/A                  | 18 CE    |
-| 10           | 10 x 10 x 10m    | C.E.O +2 \| C.E.C           | N/A                  | 25 CE    |
-| 20           | 15 x 15 x 15m    | C.E.O +4 \|C.E.C            | N/A                  | 30 CE    |
-| 30           | 20 x 20 x 20m    | C.E.O 6 \|C.E.C +2      | One                  | 35 CE    |
+| **Invested** | **Curtain Size** | **Curtain Stats**   | **Extra Conditions** | Cost (C) |
+| ------------ | ---------------- | ------------------- | -------------------- | -------- |
+| 5            | 6 x 6 x 6 m      | C.E.O -3 \| C.E.C   | N/A                  | 18 CE    |
+| 10           | 10 x 10 x 10m    | C.E.O +2 \| C.E.C   | N/A                  | 25 CE    |
+| 20           | 15 x 15 x 15m    | C.E.O +4 \|C.E.C    | N/A                  | 30 CE    |
+| 30           | 20 x 20 x 20m    | C.E.O +6 \|C.E.C +2 | One                  | 35 CE    |
 | 40           | 25 x 25 x 25m    | C.E.O +6 \|C.E.C +4 | One                  | 35 CE    |
 | 50           | 30 x 30 x 30m    | C.E.O +8 \|C.E.C +4 | Two                  | 40 CE    |
 | 60           | 40 x 40 x 40m    | C.E.O +8 \|C.E.C +6 | Three                | 55 CE    |
