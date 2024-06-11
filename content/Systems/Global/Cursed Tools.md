@@ -1,6 +1,6 @@
-Different from cursed objects, cursed tools are weapons infused with cursed energy. Due to this, even non-sorcerers can use them to combat cursed spirits. Conventional weapons such as katanas can become semi-cursed tools over time if the user constantly imbues it with their cursed energy. However, weapons new to the user that are reinforced with cursed energy are not considered cursed tools.
+Different from [[cursed objects]], cursed tools are weapons infused with cursed energy. Due to this, even non-sorcerers can use them to combat cursed spirits. Conventional weapons such as katanas can become semi-cursed tools over time if the user constantly imbues it with their cursed energy. However, weapons new to the user that are reinforced with cursed energy are not considered cursed tools.
 
-As with sorcerers and cursed spirits, cursed tools are categorized from grade one to four based on their power and potency. The higher the grade, the greater the advantage granted to the user in a jujutsu battle.
+As with sorcerers and cursed spirits, cursed tools are categorised from grade one to four based on their power and potency. The higher the grade, the greater the advantage granted to the user in a jujutsu battle.
 
 Powerful cursed tools are extremely valuable. Their monetary worth can range from five hundred thousand to upwards of five hundred million yen. All the cursed tools collected by the Big Three Sorcerer Families were stored in a vault called the cursed warehouse. Tokyo Jujutsu High's cursed warehouse is protected by Tengen's concealing barrier. 
 
