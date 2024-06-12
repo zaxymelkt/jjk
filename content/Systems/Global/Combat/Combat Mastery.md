@@ -150,13 +150,13 @@ Blunt focuses on any blunt tool. This could include bo-staffs, or even war-hamme
 
 The typical use of a melee-weapon such as a hammer or bo-staff.
 
-| Level | Injury                                                                                                             | STR vs END | Proficiency | Expertise | Passive    |
-| ----- | ------------------------------------------------------------------------------------------------------------------ | ---------- | ----------- | --------- | ---------- |
-| 1     | [[Injuries#Stable Fracture\|Lvl 1]]                                                                                | +5         | One         | -         | +2 ATK STR |
-| 2     | [[Injuries#Stable Fracture\|Lvl 1]], [[Injuries#Partial Fracture\|Lvl 2]]                                          | +2, +4     | Two         | -         | +3 ATK STR |
-| 3     | [[Injuries#Partial Fracture\|Lvl 2]], [[Injuries#Closed Fracture\|Lvl 3]]                                          | +4, +6     | Three       | One       | +4 ATK STR |
-| 4     | [[Injuries#Partial Fracture\|Lvl 2]], [[Injuries#Closed Fracture\|Lvl 3]], [[Injuries#Compound Fracture\|Level 4]] | +4, +6, +8 | Three       | Two       | +5 ATK STR |
-| 5     | [[Injuries#Partial Fracture\|Lvl 2]], [[Injuries#Closed Fracture\|Lvl 3]], [[Injuries#Compound Fracture\|Lvl 4]]   | +3, +5, +7 | Three       | Three     | +6 ATK STR |
+| Level | Injury                                                                                                           | STR vs END | Proficiency | Expertise | Passive    |
+| ----- | ---------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | --------- | ---------- |
+| 1     | [[Injuries#Stable Fracture\|Lvl 1]]                                                                              | +5         | One         | -         | +2 ATK STR |
+| 2     | [[Injuries#Stable Fracture\|Lvl 1]], [[Injuries#Partial Fracture\|Lvl 2]]                                        | +2, +4     | Two         | -         | +3 ATK STR |
+| 3     | [[Injuries#Partial Fracture\|Lvl 2]], [[Injuries#Closed Fracture\|Lvl 3]]                                        | +4, +6     | Three       | One       | +4 ATK STR |
+| 4     | [[Injuries#Partial Fracture\|Lvl 2]], [[Injuries#Closed Fracture\|Lvl 3]], [[Injuries#Compound Fracture\|Lvl 4]] | +4, +6,+8  | Three       | Two       | +5 ATK STR |
+| 5     | [[Injuries#Partial Fracture\|Lvl 2]], [[Injuries#Closed Fracture\|Lvl 3]], [[Injuries#Compound Fracture\|Lvl 4]] | +3, +5,+7  | Three       | Three     | +6 ATK STR |
 
 ### Ranged Application
 
