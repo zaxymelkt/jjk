@@ -191,10 +191,10 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 
 ### Weaponry
 
-| **Skill**      | **Level** | **Invested** | **Buffs**                      |
-| -------------- | --------- | ------------ | ------------------------------ |
-| Blunt : Melee  | 5         | 9            | +6 [ATK STR]                   |
-| Blunt : Ranged | 5         | 9            | +4 [ATK STR] \| -2 [Dodge SPD] |
+| **Skill**      | **Level** | **Invested** | **Buffs**                   |
+| -------------- | --------- | ------------ | --------------------------- |
+| Blunt : Melee  | 5         | 9            | +6 [ATK STR]                |
+| Blunt : Ranged | 5         | 9            | +4 [ATK STR] \| +2 [ATKSPD] |
 
 
 ## Cursed Energy
@@ -204,8 +204,27 @@ Upon regaining a mere glimmer of his vitality, Hoshikakushi stirred, enveloping 
 | Domain Expansion | 25       | Y            |
 | Simple Domain    | 9        | N            |
 
-# Abilities
+# Jujutsu
 
-## [[Shrine]]
+## Binding Vows
+|                                                                                                                                                                                                                                                                                                                 Vow                                                                                                                                                                                                                                                                                                                 |                                                     IMG                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                                                              <br><br>Hoshikakushi has a binding vow with [[Ryomen Sukuna]]. The details and existence of which is unknown to him.<br><br>Hoshikakushi additionally has a binding vow with [[Abe Toma]] to remain with him for the rest of their life.                                                                                                                                                                                               |        ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/da/Binding_Vow_%28Anime%29.png)        |
+| <br>By restricting Hoshikakushi's Divine Flame, Hoshikakushi gains more freedom in its use during his Domain Expansion. Whenever Furnace is to be activated, Hoshikakushi must have previously used either Cleave and or Dismantle for 8 actions total. <br><br>Outside of the domain, Hoshikakushi can only chant 'open' if he is fighting someone solo and they are facing him solo. Once the Divine Flame has been opened, it cannot be interrupted or cancelled.<br><br>Inside the domain, the explosion of the Divine Flame covered the entirety of the domain. In return, the Divine Flame Arrow's speed is no longer hinder. | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/32/Sukuna%27s_Divine_Flame_in_his_domain.png) |
+
+## Innate Technique [[Shrine]]
+|                                                                                                                                           Technique                                                                                                                                            |                                                                              IMG                                                                               |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                           <br><br><br><br><br><br>[[Shrine#Dismantle\|Dismantle]] : Hoshikakushi's default ranged slashing attack that is normally used for inanimate objects, however it can also be used against cursed spirits and sorcerers to great effectiven                            |       ![Sukuna using Dismantle against Kashimo](https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/3d/Sukuna_using_Dismantle_against_Kashimo.png)       |
+| <br><br><br><br>[[Shrine#Cleave\|Cleave]] : A slashing attack that adjusts itself depending on the target's toughness and cursed energy level to cut them down in one fell swoop. Unless used in his domain expansion,  must make physical contact with the target in order to activate Cleave |                        ![Yuji is hit by Cleave](https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/30/Yuji_is_hit_by_Cleave.png)                        |
+|    <br><br><br><br>[[Shrine#Cleave SpiderWeb\|Spiderweb]] : Hoshikakushi can utilize the Cleave technique in the shape of a spider's web by touching the ground. As a variation of Cleave, Spiderweb adjusts itself to the surroundings' toughness, collapsing the ground in one fell swoop    |                 ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/0/05/Sukuna_using_Spiderweb.png/revision/latest?cb=20230620013123)                 |
+|                     <br><br><br>[[Shrine#Maximum Technique Furnace\|Divine Flame]] : Hoshikakushi can create and manipulate fire for long-range attacks by chanting "Open". and forming an arrow. This technique can only be used after he performs Dismantle and Cleave.                      | ![](https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/fd/Sukuna_opens_his_Divine_Flame.png/revision/latest/scale-to-width-down/1000?cb=20240429130248) |
+
+# Domain Expansion
+|                                                                                                                                                                                                                                                                                                      Domain Expansion: Kāmadhātu Shrine                                                                                                                                                                                                                                                                                                       |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [[Domain Expansion - Kāmadhātu Shrine\|Kāmadhātu Shrine]] or The "Shrine of Worldly Desire" appears as a main sanctuary adorned with amulets scattered throughout its interior, covering the floor, walls, and ceiling. This shrine features a solitary entryway, a stairway ascending 25 meters to its peak. It is encircled by the skeletal remains of victims from Hoshikakushi's tenure as an assassin for the Fujiwara clan, displayed in a state of crucifixion and incineration. The shrine's decor includes the liquefied forms of the Fujiwara Clan members, with a pristine image of Fujiwara Emiko prominently placed at the apex. |
+
 
 ## [[Ryomen Sukuna's Finger]]
+
