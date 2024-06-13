@@ -113,3 +113,4 @@ _How will you avoid this Cursed Cataclysm?_
 
 - [[Domain Expansion - Time Cell Moon Palace]]
 - [[Domain Expansion - Hyōketsu no Shinkai]]
+- [[Domain Expansion - Chimera Shadow Garden]]
