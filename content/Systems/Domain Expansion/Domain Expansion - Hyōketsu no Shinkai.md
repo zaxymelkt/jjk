@@ -13,7 +13,7 @@ Those within the domain immediately gain [[Status Conditions#Frostbitten|Frostbi
 
     1. The domain is limited to [[Status Conditions#Frostbitten|Frostbitten]]
 
-    2. During the domain usage, it requires 3 turns for [[Status Conditions#Frostbitten|Frostbitten]] 2 to set without additional cooling from the caster. By concentrating, 2 turns will cause the temprature to low to [[Status Conditions#Frostbitten|Frostbitten]] 2.
+    2. During the domain usage, it requires 3 turns for [[Status Conditions#Frostbitten|Frostbitten]] 2 to set without additional cooling from the caster. By concentrating, 2 turns will cause the temprature to lower to [[Status Conditions#Frostbitten|Frostbitten]] 2.
 
 ---
 
